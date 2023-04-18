@@ -1,0 +1,753 @@
+,name,id,popularity,votes,cuisinetypes,delivery_time_max,delivery_time_min,score,delivery,pickup,discounts,longitude,latitude,score_range
+0,kuchnia-express-reymonta,000O1Q11,2,77,"pasta_1376, lunch_1226, mexican_221",55,80,4.2,1,1,1,20.936907,52.2746767,3.8-4.3
+1,geisha-sushi-bergamotki,0017Q311,48,354,"sushi_51, soup_1406, japanese_551",50,75,4.5,1,1,1,21.0436455,52.1774365,>4.3
+2,maharani-indyjska-restauracja,00351O11,0,166,"indian_1596, curry_1576, salads_1456",50,60,4.0,1,1,0,21.008405,52.251653,3.8-4.3
+3,smaki-kuchni-gruzinskie-kinto,003PP37N,0,62,georgian_1516,60,85,4.3,1,1,0,21.1240398,52.3444113,3.8-4.3
+4,loving-hut-warszawa-nowolipie,0055QQ5N,23,41,"vietnamese_261, vegetarian_391, falafel_1215",50,60,4.8,1,1,0,20.9914596,52.2426662,>4.3
+5,leonardo-daj-winko,00NO5R5N,5,9,"burgers_1276, seafood_1476, breakfast_681",30,40,3.6,1,1,0,21.028291,52.2369036,3.5-3.8
+6,mama-kebab-rondo-jerzego-waszyngtona,00NRP511,2,63,"kebab_1606, gyros_1356",55,65,3.0,1,1,1,21.0521892,52.2382069,<3.5
+7,dodo-pizza-rondo-onz,00PP3Q5N,124,26,"pizza_1386, italian_21, american_1296",25,50,4.8,1,1,0,20.990927,52.245125,>4.3
+8,berlin-doner-kebap-warszawa-ch-zlote-tarasy,00R55R11,5,77,"kebab_1606, turkish_511, vegetarian_391",55,65,3.6,1,1,0,21.0014321,52.2302995,3.5-3.8
+9,sushi-warszawa-orange-mokotow,00RR0Q5N,124,564,"sushi_51, japanese_551",30,55,4.9,1,1,0,21.0233597,52.1990471,>4.3
+10,francuska-robota-warszawa,010N30N1,16,116,"burgers_1276, lunch_1226, pancakes_1674",50,60,4.7,1,1,0,20.989703,52.234282,>4.3
+11,sedo-balkan-grill-restaurant,0130RP11,10,67,turkish_511,45,55,4.2,0,1,1,20.9785192,52.2138449,3.8-4.3
+12,gruzinska-piekarnia-tiflisi,015ON0N1,0,77,"georgian_1516, lunch_1226, desserts_954",50,60,4.6,1,1,1,21.0213459,52.2146569,>4.3
+13,indian-curry-aleja-tysiaclecia,01NP30N1,61,1412,"indian_1596, curry_1576, lunch_1226",50,75,4.4,1,1,0,20.8408284,52.1793949,>4.3
+16,menya-musashi-galeria-mlociny,01Q73R11,2,33,"sushi_51, soup_1406, japanese_551",50,75,4.4,1,1,0,20.9288222,52.2939795,>4.3
+17,nice-cream-warszawa-koszykowa-59,01RNR37N,3,3,"gluten-free_1556, desserts_954",20,45,3.2,1,0,0,21.0120866,52.2224118,<3.5
+18,burger-king-pkp-warszawa,01ROPP5N,16,36,"burgers_1276, american_1296",50,60,3.9,1,1,0,21.0040678,52.2287301,3.8-4.3
+19,pasaz-obiady-domowe,01RQ175N,0,70,"polish_1216, pasta_1376, dumplings_1236",50,60,4.5,1,0,0,21.0127927,52.2313423,>4.3
+20,miodowa-cafe,030P1311,0,4,"polish_1216, desserts_954, international_1486",50,60,4.0,1,1,0,21.0123286,52.2453565,3.8-4.3
+21,tusz-tusz-bistro-warszawa,0310RP11,0,26,"salads_1456, vegetarian_391, breakfast_361",50,60,5.0,1,1,1,21.0024646,52.2441167,>4.3
+22,pizza-pod-palma,03157311,9,115,"pizza_1386, italian_21, lunch_1226",15,40,4.5,1,1,1,21.024015,52.232845,>4.3
+24,spicy-kebab-grill-ochota,03330N31,43,246,"kebab_1606, falafel_1586, arab_1566",30,55,4.4,0,1,0,20.984088,52.2201742,>4.3
+25,salsiccia-pizzeria-napoletana,035OPO11,214,2371,"pizza_1386, italian_21, salads_1456",45,70,4.2,1,1,1,21.1071219,52.236533,3.8-4.3
+26,minar-kebab-solec,035QN711,0,57,"kebab_1606, sandwiches_671, falafel_1586",35,45,4.2,1,1,0,21.0326929,52.2365184,3.8-4.3
+27,bubblejoy,03N50R11,0,25,"chinese_41, vietnamese_261, desserts_954",50,60,4.5,1,1,0,21.0134489,52.232276,>4.3
+28,la-viet,03P31P11,0,38,"chinese_41, thai_61, vietnamese_261",50,60,4.5,1,1,0,21.0085458,52.2226577,>4.3
+30,papa-diego-swiezy-meksyk-warszawa-nowolipki,03QQP75N,7,110,"vegetarian_391, lunch_1226, mexican_221",50,60,3.8,1,1,0,20.9933097,52.2451478,3.5-3.8
+31,youmiko-vegan-sushi-warszawa-narbutta,0507NP5N,10,9,"sushi_51, vegetarian_391, falafel_1215",50,60,4.8,0,1,0,21.0038096,52.2037842,>4.3
+32,zjesc-kuchnia-weganska,050N5711,8,237,"falafel_1215, soup_1406, vegetarian_391",30,55,4.4,1,1,1,21.024061,52.190912,>4.3
+33,nana-sushi,051O0R11,6,144,"chinese_41, sushi_51, japanese_551",40,65,4.5,1,1,0,21.0891514,52.2219934,>4.3
+34,da-grasso-powisle-warszawa,051ONN31,72,304,"pizza_1386, italian_21, pasta_1376",50,75,4.6,1,1,0,21.032326,52.2342733,>4.3
+35,stara-kamienica-1,0535RP11,0,20,"burgers_1276, polish_1216, american_1296",35,45,5.0,0,1,0,21.0151745,52.2315939,>4.3
+36,pink-vegan,055P1O7N,13,26,"vegetarian_391, falafel_1215, international_1486",45,70,4.8,1,1,1,21.066705,52.1948218,>4.3
+37,mama-kebab-chmielna,0573P55N,3,50,"kebab_1606, falafel_1586, arab_1566",55,65,4.1,1,1,0,21.0134489,52.232276,3.8-4.3
+38,subway-warszawa-aljerozolimskie,057R175N,4,13,"salads_1456, sandwiches_671, wrap_1416",50,60,4.1,1,1,0,20.9968884,52.2263765,3.8-4.3
+39,meze-by-teo-vafidis-sons,05O1375N,8,15,"greek_501, gyros_1356, lunch_1226",55,65,4.2,1,1,0,21.0125712,52.2244084,3.8-4.3
+40,pizzeria-san-giovanni-wlodarzewska,05O35O7N,1195,38,"pizza_1386, italian_21, pasta_1376",20,45,4.7,1,1,0,20.965421,52.2016152,>4.3
+41,chinatown,05OO0R11,3,33,"chinese_41, lunch_1226",50,60,4.2,1,1,0,21.000139,52.2270619,3.8-4.3
+42,gringo-bar-warszawa-koszykowa,05P5N37N,0,7,mexican_221,55,80,4.0,1,1,0,21.0115264,52.2224832,3.8-4.3
+43,not-1984-warszawa,05PNQ37N,0,4,"lunch_1226, pancakes_1674, breakfast_681",50,60,4.4,1,1,0,20.991812,52.2432576,>4.3
+44,pho-more,05QNRO11,13,867,"chinese_41, thai_61, vietnamese_261",50,60,4.2,1,1,0,20.98297,52.2388795,3.8-4.3
+45,quattro-canti-pizza-di-roma,05QO0P5N,0,7,"pizza_1386, italian_21, lunch_1226",50,60,3.7,1,1,0,21.0272363,52.2401936,3.5-3.8
+46,lider-kebab-marszalkowska-1,070OPQ11,19,235,"kebab_1606, turkish_511, salads_1456",30,55,3.3,1,1,0,21.01588,52.2236459,<3.5
+47,pijalnia-ziol-dary-natury,07137O11,4,24,"dumplings_1236, vegetarian_391, desserts_954",55,65,4.8,1,1,0,21.0177164,52.2205373,>4.3
+50,chinczyk-z-senatorskiej-warszawa-1,073O7711,0,10,"chinese_41, lunch_1226, beef_1426",55,65,4.9,1,1,0,20.9776025,52.2391684,>4.3
+51,sucre-lody-naturalne-i-cukiernia,073PQQ5N,3,7,"gluten-free_1556, desserts_954",50,60,4.5,1,1,0,21.018491,52.2203402,>4.3
+53,vege-bistrostara-lodziarnia,07NNO711,0,25,"polish_1216, vegetarian_391, falafel_1215",55,65,4.8,1,1,0,21.0531115,52.2365365,>4.3
+54,bufet-studio-smaku,07NQ3R5N,4,21,"polish_1216, dumplings_1236, lunch_1226",50,60,4.3,1,1,0,21.0058281,52.2316784,3.8-4.3
+55,kafka-1,07R5O75N,13,47,"lunch_1226, breakfast_681",50,60,4.6,1,1,0,21.0227742,52.2394933,>4.3
+56,miss-thai,07RP7R5N,13,240,thai_61,35,60,4.3,1,1,0,20.999686,52.226657,3.8-4.3
+57,aden,0N0R755N,4,34,kebab_1606,50,60,4.4,1,1,0,20.9999152,52.2293206,>4.3
+58,marc-vegans,0N0ROQ5N,2,563,"falafel_1215, vegetarian_391, wrap_1416",35,60,4.3,1,1,0,21.0115345,52.2215051,3.8-4.3
+59,bistro-madam-mari,0N1N0R5N,2,8,"pizza_1386, polish_1216",50,60,3.9,1,1,0,20.994034,52.2330946,3.8-4.3
+60,samarkand-restauracja-uzbecka-wilanow,0N303O7N,0,67,"kebab_1606, dumplings_1236, international_1486",40,65,4.3,1,1,0,21.0677385,52.1723137,3.8-4.3
+62,trattoria-babcia-wloszka,0N315P5N,36,191,"pizza_1386, italian_21, pasta_1376",15,40,4.3,1,1,0,20.9541341,52.2240368,3.8-4.3
+63,pan-sushi-warszawa,0N3OOP11,0,94,"sushi_51, falafel_1215, japanese_551",75,100,4.1,1,1,0,21.0348051,52.250876,3.8-4.3
+65,pho-1,0NO1075N,0,48,"chinese_41, thai_61, vietnamese_261",30,55,4.3,1,1,0,20.995033,52.2547031,3.8-4.3
+66,bursztynowa-bistro,0NO1OP5N,0,11,"polish_1216, soup_1406, lunch_1226",35,45,4.8,1,1,0,21.0187779,52.2340287,>4.3
+67,crispy-chickn,0NORR55N,0,12,"american_1296, sandwiches_671, lunch_1226",50,60,4.2,1,1,1,21.0112381,52.221647,3.8-4.3
+68,sphinx-warszawa-al-jerozolimskie,0NP5Q55N,6,60,"pizza_1386, lunch_1226, international_1486",55,65,3.0,1,1,0,21.0042443,52.2276575,<3.5
+69,we-love-falafel,0NQ0OR5N,0,6,"vegetarian_391, falafel_1586, arab_1566",50,60,3.8,1,1,0,21.003929,52.2428241,3.5-3.8
+72,ten-sushi-warszawa-osmanczyka,0O0PR131,144,394,"sushi_51, lunch_1226, japanese_551",50,75,4.9,1,1,1,20.9318509,52.2603049,>4.3
+73,mcdonalds-warszawa-metro-swietokrzyska,0O57P311,30,64,"burgers_1276, american_1296, kids-menu_1496",50,60,4.1,1,0,0,21.0094989,52.235143,3.8-4.3
+74,io-raviolo-warszawa-aleje-jerozolimskie,0O5RO75N,0,5,"pizza_1386, italian_21, pasta_1376",50,60,3.1,1,1,0,20.9929811,52.2253968,<3.5
+75,kolonia,0O7QNQ5N,4,10,"lunch_1226, kids-menu_1496, international_1486",45,55,4.9,1,1,0,20.9959408,52.2178716,>4.3
+76,deski,0O7QQQ5N,0,17,"pasta_1376, salads_1456, lunch_1226",25,50,5.0,0,1,0,21.0479136,52.2223763,>4.3
+77,ali-kebab-warszawa,0ON3P711,0,32,"kebab_1606, turkish_511, arab_1566",55,65,3.9,0,1,0,20.9665292,52.2368661,3.8-4.3
+78,trattoria-murano-pokorna,0ONP3711,0,170,"pizza_1386, italian_21, pasta_1376",35,60,4.4,1,1,0,20.995033,52.2547031,>4.3
+81,gastropub-pan-bobr,0OPQ0Q5N,72,205,"pizza_1386, polish_1216, lunch_1226",45,70,4.7,1,1,0,20.9803372,52.2257761,>4.3
+82,the-grill,0OPR5Q5N,0,37,"burgers_1276, american_1296, mexican_221",50,60,4.3,1,1,0,21.0130598,52.2477878,3.8-4.3
+83,falla-warszawa-obozna,0OQ1OP5N,10,68,"vegetarian_391, falafel_1215, wrap_1416",45,55,4.8,1,1,0,21.02011,52.238968,>4.3
+84,mala-italia-gorczewska-warszawa,0ORR7O7N,22,147,"pizza_1386, italian_21, pasta_1376",35,60,4.8,1,1,1,20.9611907,52.2379738,>4.3
+85,curry-master,0P111O11,77,1286,"indian_1596, thai_61, curry_1576",25,50,4.8,1,1,0,20.9476001,52.2674981,>4.3
+86,subway-warszawamarszalkowska,0P1Q175N,0,12,"salads_1456, sandwiches_671, wrap_1416",50,60,3.3,1,1,0,21.0086043,52.2355835,<3.5
+87,biesiadowo-warszawa-kopinska,0P30R37N,32,38,"pizza_1386, italian_21, lunch_1226",40,65,3.9,0,1,0,20.9788601,52.2173798,3.8-4.3
+88,everest-cafe,0P3N5311,0,281,"indian_1596, curry_1576, international_1486",55,80,4.4,1,1,1,20.9984442,52.2432231,>4.3
+89,viets-baguette,0P73Q55N,0,23,"vietnamese_261, sandwiches_671",55,65,4.9,1,1,0,21.0211499,52.211371,>4.3
+90,bulozercy,0P7N5R5N,0,66,"burgers_1276, american_1296, beef_1426",50,60,4.2,1,1,0,20.9936381,52.2540177,3.8-4.3
+91,warsaw-beef-bar-solec,0PNR3O7N,12,58,"burgers_1276, american_1296, vegetarian_391",40,65,4.3,1,1,1,21.032326,52.2342733,3.8-4.3
+92,taco-bar-gieldowa,0PP3RQ5N,0,73,"vegetarian_391, wrap_1416, mexican_221",50,60,4.6,1,1,0,20.9742961,52.2307675,>4.3
+93,pizza-z-karaibow,0PP51Q5N,0,64,"pizza_1386, italian_21, pasta_1376",60,85,4.1,1,0,1,21.023738,52.1912779,3.8-4.3
+94,snackoo,0PPPP37N,0,3,"burgers_1276, american_1296, sandwiches_671",50,60,5.0,1,1,0,21.0116346,52.2330668,>4.3
+95,gringo-bar-dobra-1,0PQ5N37N,0,6,mexican_221,50,75,3.3,1,1,0,21.0245499,52.2416679,<3.5
+96,vege-kitchen-warszawa,0PQ5RR11,9,115,"thai_61, vegetarian_391, falafel_1215",50,60,4.5,1,1,0,21.0171353,52.2332481,>4.3
+98,dubai-kebab-al-jerozolimskie,0PRPRQ5N,3,10,"kebab_1606, falafel_1586, arab_1566",50,60,4.5,1,1,0,21.0058697,52.2282884,>4.3
+99,mr-bun,0PRR1311,0,118,"thai_61, vietnamese_261, falafel_1215",50,60,4.1,0,1,0,21.0312641,52.205911,3.8-4.3
+100,makarun-warszawa-rondo-daszynskiego,0PRR175N,0,48,"italian_21, pasta_1376, lunch_1226",50,60,4.4,1,1,0,20.984737,52.2290172,>4.3
+101,wafflove,0Q050R11,0,28,"desserts_954, pancakes_1674, breakfast_681",50,60,4.3,1,1,0,21.0047486,52.2431453,3.8-4.3
+103,cukiernia-zosicz-na-zelaznej,0Q1N0R5N,0,13,"snacks_1286, lunch_1226, desserts_954",50,60,4.4,1,1,0,20.9901681,52.2360466,>4.3
+104,wakecup-cafe,0Q1P1311,0,9,"sandwiches_671, wrap_1416, desserts_954",50,60,4.7,1,1,0,21.0026375,52.252248,>4.3
+105,la-pizza-napoletana-20,0Q1R337N,27,79,"pizza_1386, italian_21, desserts_954",35,45,4.1,1,1,0,20.9740569,52.2703051,3.8-4.3
+106,sana-sushi,0Q311R11,5,66,"sushi_51, japanese_551",65,90,4.4,1,1,0,21.0351436,52.1429226,>4.3
+107,pielmieni-deli,0Q50RP11,0,12,"dumplings_1236, lunch_1226, international_1486",50,60,4.1,1,1,0,21.011293,52.2198632,3.8-4.3
+108,thaisty-stary-zoliborz-1,0Q53NQ5N,56,191,"thai_61, lunch_1226, international_1486",30,55,4.2,1,1,0,20.9870897,52.2674481,3.8-4.3
+109,max-premium-burgers-zlota-warszawa,0Q5NOR11,3,160,"burgers_1276, american_1296, vegetarian_391",50,60,3.5,1,1,0,21.0014321,52.2302995,<3.5
+110,wilcza-okocim-grill-bar,0Q71OP5N,0,6,"burgers_1276, polish_1216, lunch_1226",50,60,4.3,1,1,0,21.0136381,52.2242941,3.8-4.3
+111,jerky-warszawskie-noca,0Q753O7N,0,20,"american_1296, snacks_1286, beef_1426",45,70,4.7,1,1,0,21.032326,52.2342733,>4.3
+112,ramen-by-masami-tadeusza-rechniewskiego,0QN3OO7N,3,10,"sushi_51, dumplings_1236, japanese_551",80,100,3.6,1,1,0,21.1052202,52.2291356,3.5-3.8
+113,ministerstwo-smaku-warszawa,0QNP7P5N,0,27,"polish_1216, dumplings_1236, lunch_1226",45,55,4.2,1,1,1,21.0232028,52.2178035,3.8-4.3
+114,momencik-vegan-burritos-tacos-warszawa,0QQ5175N,6,45,"vegetarian_391, falafel_1215, mexican_221",55,65,4.7,1,1,0,21.012008,52.225595,>4.3
+115,yoko-expres,0QR5OQ11,17,24,"sushi_51, thai_61, lunch_1226",50,60,5.0,0,1,0,20.9794175,52.2475376,>4.3
+116,original-burger-express,0R111O11,0,164,"burgers_1276, american_1296, mexican_221",65,90,3.7,1,1,0,20.936907,52.2746767,3.5-3.8
+117,wloski-strajk-pizza-napoletana,0R150O11,28,250,"pizza_1386, italian_21, sandwiches_671",30,55,4.3,1,1,0,21.0109739,52.2330849,3.8-4.3
+118,curry-house-warszawa-patriotow,0R1NOP11,148,1141,"indian_1596, salads_1456, seafood_1476",30,55,5.0,1,1,0,21.167621,52.203815,>4.3
+121,samurai-sushi-rolls,0R3P1R11,8,170,"sushi_51, lunch_1226",60,85,4.5,1,1,0,21.0186494,52.1717448,>4.3
+122,zushi-box-centrum,0R3PP711,8,130,"sushi_51, lunch_1226, japanese_551",75,100,4.0,1,1,1,21.0199871,52.2328949,3.8-4.3
+123,kraina-pierogow-warszawa-jana-pawla-ii,0R3QP511,8,48,"dumplings_1236, lunch_1226",55,65,4.4,0,1,0,20.9880245,52.2475382,>4.3
+124,indian-summers,0R505311,91,1433,"indian_1596, curry_1576, falafel_1215",40,65,4.9,1,1,1,20.9151968,52.2401858,>4.3
+126,starbucksr-mokotowska,0R7O0P5N,0,13,"coffee_1164, cake_251, breakfast_361",50,60,4.4,1,0,0,21.0157913,52.2177616,>4.3
+127,bella-ciao,0R7P075N,18,481,"pizza_1386, italian_21, pasta_1376",45,70,4.5,1,1,0,21.0323904,52.2341747,>4.3
+128,pizzeria-360-chlodna,0RN50R11,2,123,"pizza_1386, italian_21, pasta_1376",55,65,4.7,1,1,0,20.991118,52.2380625,>4.3
+129,krowarzywa-warszawa-pulawska,0RN70N31,6,281,"burgers_1276, vegetarian_391, falafel_1215",30,55,3.9,0,1,1,21.02255,52.2045994,3.8-4.3
+131,oliwa-i-papryka-dzielna-warszawa,301100QN,21,21,"pizza_1386, italian_21, pasta_1376",55,65,4.7,1,1,0,20.980814,52.243687,>4.3
+134,przystanek-pierogarnia-warszawa-nowy-swiat,30Q1Q77N,9,10,"polish_1216, dumplings_1236, lunch_1226",50,60,4.1,1,1,0,21.020063,52.23277,3.8-4.3
+137,hollywood-philly-steak-burger,31353R7N,6,7,"burgers_1276, american_1296, snacks_1286",25,50,4.9,1,1,0,21.000185,52.229435,>4.3
+138,favori-kebab-by-night-gorczewska,313N577N,0,25,"kebab_1606, turkish_511, falafel_1586",55,80,4.7,1,1,0,20.94165,52.23964,>4.3
+139,tandoor-palace-by-curry-house,313R0Q7N,5,49,"indian_1596, lunch_1226",35,60,4.4,1,1,1,20.992567,52.243805,>4.3
+140,pomidory-oliwa,3153157N,19,40,"pizza_1386, italian_21, seafood_1476",55,80,4.6,1,1,0,20.9690062,52.214931,>4.3
+142,pelna-micha-plocka-warszawa,317RR17N,0,546,"polish_1216, pasta_1376, lunch_1226",50,75,4.7,1,1,0,20.9654353,52.2311096,>4.3
+143,bushi-sushi-wola,31NQ7R7N,25,92,"sushi_51, lunch_1226, japanese_551",45,70,4.6,1,1,1,20.984901,52.23663,>4.3
+145,house-falafel-hummus,31OP137N,4,3,"vegetarian_391, falafel_1215, lunch_1226",55,65,4.9,0,1,1,20.96827,52.23408,>4.3
+146,bushi-sushi-motorowa,31R00N7N,32,96,"sushi_51, lunch_1226, japanese_551",35,60,4.8,1,1,1,21.0822164,52.2352775,>4.3
+147,sushi-to-go-rondo-dmowskiego,31R05R7N,0,3,sushi_51,20,30,3.9,0,1,0,21.011436,52.229404,3.8-4.3
+149,hong-ha-siedmiogrodzka-1,3317137N,12,34,"thai_61, vietnamese_261, curry_1576",50,60,4.6,1,1,0,20.97666,52.23208,>4.3
+151,shish-kebab-restaurant,335PN57N,1,93,"kebab_1606, curry_1576, vegetarian_391",65,90,3.0,1,1,0,20.9827803,52.2392853,<3.5
+152,pita-bros,335PQQ7N,2,4,"kebab_1606, greek_501, vegetarian_391",50,60,3.8,1,1,0,21.012571,52.224407,3.5-3.8
+154,taco-loco,33O3O77N,17,43,"american_1296, spanish-and-tapas_11, mexican_221",55,65,4.6,1,1,1,20.9912063,52.2440229,>4.3
+161,hallo-pizza-warszawa-pulawska-7375,351OQR7N,71,62,"pizza_1386, italian_21, salads_1456",40,65,4.3,1,1,1,21.023952,52.201424,3.8-4.3
+162,india-curry,353PN57N,8,20,"indian_1596, curry_1576, lunch_1226",40,65,4.7,1,1,1,21.0669047,52.1316018,>4.3
+163,zloty-ryz-1,355O5Q7N,0,19,"chinese_41, thai_61, japanese_551",40,65,4.3,1,1,0,21.026257,52.19966,3.8-4.3
+167,kwitnaca-wisnia-iganska,35NP3Q7N,13,61,"sushi_51, vegetarian_391, japanese_551",25,50,4.4,1,1,1,21.089544,52.24185,>4.3
+168,sushi-luxury,35OPO57N,10,10,"sushi_51, lunch_1226, japanese_551",55,65,4.9,0,1,0,20.969067,52.234364,>4.3
+169,food-station-warszawa,35OQ5Q7N,7,8,"thai_61, vietnamese_261, dumplings_1236",25,50,4.9,0,1,0,20.973286,52.21884,>4.3
+171,nalesniki-roka,35R73R7N,0,39,"vegetarian_391, lunch_1226, pancakes_1674",80,100,4.4,1,1,1,20.991207,52.244022,>4.3
+172,best-sushi,3715QR7N,16,25,"sushi_51, soup_1406, japanese_551",55,80,4.7,1,1,0,20.919777,52.280323,>4.3
+174,top-kebab,377R7R7N,25,17,"kebab_1606, vegetarian_391, arab_1566",50,75,3.8,1,1,1,21.008108,52.192825,3.5-3.8
+176,catering-ochota-warszawa-grzymaly-1,37NQ077N,0,5,"polish_1216, pasta_1376, lunch_1226",20,45,4.6,0,1,0,20.9770471,52.2183212,>4.3
+177,modern-kebab,37OP377N,8,18,"kebab_1606, turkish_511",40,65,4.6,1,1,1,20.9770471,52.2183212,>4.3
+180,kikori-sushi-warszawa-sagalli,37QQR77N,36,29,"sushi_51, thai_61, japanese_551",65,90,4.1,1,1,0,21.22297,52.22235,3.8-4.3
+182,wakayama,3N117O7N,0,12,"soup_1406, lunch_1226, japanese_551",50,75,4.6,1,1,0,21.0112381,52.221647,>4.3
+184,kucharz-z-doskoku,3N507O7N,0,41,"polish_1216, dumplings_1236, poultry_1536",45,70,5.0,1,1,0,21.003553,52.2466933,>4.3
+186,prosushi,3N77357N,25,14,"sushi_51, japanese_551",50,75,4.7,1,1,0,20.9903235,52.1766553,>4.3
+188,taj-mahal-zabki-pilsudskiego,3NQ07O7N,0,12,"indian_1596, curry_1576, soup_1406",20,45,4.4,1,1,0,20.96975,52.234226,>4.3
+189,red-curry-restauracja-indyjska,3NR77Q7N,29,49,"indian_1596, curry_1576",50,75,4.8,1,1,1,21.102606,52.239662,>4.3
+191,tusushi-dim-sum-warszawa-powstancow-slaskich,3O0N0R7N,6,5,"sushi_51, lunch_1226, japanese_551",25,50,4.6,1,1,0,20.916065,52.221466,>4.3
+192,vip-sushi,3O0ORO7N,38,65,"sushi_51, japanese_551",55,80,4.7,1,1,0,20.9911297,52.2440589,>4.3
+193,salt-spicy-indian-food,3O130O7N,2,12,"indian_1596, curry_1576",80,100,3.8,1,1,0,21.1013836,52.240762,3.5-3.8
+194,muka-bistro,3O1RR77N,0,13,"polish_1216, dumplings_1236, poultry_1536",50,60,4.9,1,1,0,21.011389,52.227444,>4.3
+195,cherry-sushi,3O35OQ7N,10,14,sushi_51,20,45,4.7,1,1,1,21.239979,52.217907,>4.3
+197,sushi-bistro-warszawa-zoliborz,3O5R3R7N,58,5,"sushi_51, japanese_551",60,85,4.7,1,1,1,20.964838,52.256622,>4.3
+199,dim-sum-house-warszawa,3OO1RR7N,32,43,"chinese_41, dumplings_1236, vegetarian_391",30,55,4.9,1,0,0,21.011982,52.22311,>4.3
+200,zurbagan,3OPQRR7N,10,19,"pizza_1386, burgers_1276, american_1296",20,45,4.8,1,1,1,21.032326,52.234272,>4.3
+201,pierogushi,3OQNRO7N,26,31,"dumplings_1236, gluten-free_1556, ukrainian_2508",70,95,4.1,1,1,0,21.0118944,52.2344262,3.8-4.3
+202,maybest-kebab,3OR71R7N,0,10,"kebab_1606, turkish_511, lunch_1226",50,60,4.7,1,1,0,20.980997,52.233265,>4.3
+203,suji-sushi,3ORQ1Q7N,0,5,"sushi_51, japanese_551",15,40,5.0,1,1,0,20.980486,52.22625,>4.3
+204,izula-sushi-warszawa,3P13117N,0,81,"sushi_51, vegetarian_391, japanese_551",50,75,4.8,1,1,0,20.9520034,52.1842359,>4.3
+205,byk-bar-warszawa-rozbrat,3P1O1R7N,6,4,"burgers_1276, american_1296, beef_1426",55,65,5.0,1,1,0,21.035772,52.222702,>4.3
+206,burger-show,3P37QR7N,32,13,"burgers_1276, american_1296, snacks_1286",30,55,4.9,1,1,0,20.979456,52.230244,>4.3
+207,cukiernia-warszawska-mickiewicza,3P51N77N,0,17,"desserts_954, cake_251",80,100,4.1,0,1,0,20.984575,52.26793,3.8-4.3
+209,whiskey-in-the-jar-warszawa-marszalkowska,3P5RQQ7N,17,6,"burgers_1276, american_1296, beef_1426",50,60,4.6,1,1,0,21.014973,52.22314,>4.3
+210,satoshi-sushi,3P77OR7N,0,16,"sushi_51, japanese_551",50,75,4.4,1,0,1,21.060024,52.24832,>4.3
+211,tagliatelle-pastaco,3PN0OR7N,0,4,"italian_21, pasta_1376",50,60,4.1,1,1,0,21.01228,52.22597,3.8-4.3
+213,pizzeria-oliwka-warszawa-sniadeckich,3PN1157N,0,4,"pizza_1386, salads_1456, desserts_954",50,60,5.0,1,1,0,21.0141595,52.221164,>4.3
+214,pizza-lecentano,3POPQP7N,7,11,"pizza_1386, italian_21, pasta_1376",45,55,4.6,1,1,0,20.986602,52.2351899,>4.3
+216,south-indian-flavours,3PQ73R7N,2,30,"indian_1596, curry_1576, vegetarian_391",50,75,4.4,1,1,1,20.92072,52.260418,>4.3
+218,zapiekanki-stacja-mlynow,3Q1R0R7N,0,7,"polish_1216, sandwiches_671, snacks_1286",50,60,5.0,0,1,0,20.96181,52.237206,>4.3
+220,la-zaza-grill,3Q370R7N,0,3,"kebab_1606, turkish_511, lunch_1226",50,60,3.3,1,1,0,21.002888,52.23173,<3.5
+221,sushi-wok-warszawa-al-jana-pawla-ii,3Q5N757N,0,15,"sushi_51, soup_1406, japanese_551",35,45,3.7,1,1,0,20.991783,52.2432784,3.5-3.8
+222,iburgerpl,3Q7N317N,0,16,"burgers_1276, american_1296, poultry_1536",35,45,4.9,0,1,0,20.9665106,52.2384738,>4.3
+223,kumple,3QN3PQ7N,15,34,"dumplings_1236, salads_1456, international_1486",20,45,4.9,1,1,1,20.978064,52.225098,>4.3
+226,pizzeria-dziada-nocna,3R05P77N,30,38,"pizza_1386, italian_21, pasta_1376",25,50,4.3,1,1,0,20.96827,52.23408,3.8-4.3
+227,papryczka-pizza-restaurant-warszawa-zawiszy,3R1RP57N,3,8,"pizza_1386, italian_21, pasta_1376",20,45,4.8,1,1,0,20.962939,52.243613,>4.3
+228,pamir-kebab,3R37NR7N,8,8,"kebab_1606, turkish_511, falafel_1586",25,50,4.3,1,1,0,20.959627,52.231834,3.8-4.3
+233,india-express-by-mandala-mokotow,50R71Q3,74,2497,"indian_1596, thai_61, falafel_1215",40,65,4.4,1,1,1,20.9898829,52.1910344,>4.3
+234,sen-viet,510OPQ3,231,3148,"chinese_41, thai_61, vietnamese_261",35,60,4.5,1,1,0,20.991783,52.2432784,>4.3
+235,sushi-box,51NRR73,17,1200,"sushi_51, soup_1406, japanese_551",45,70,4.3,1,1,0,21.019619,52.2068244,3.8-4.3
+236,pizzeria-napoli-1,51QRR73,3,1909,"pizza_1386, italian_21, pasta_1376",80,100,3.2,1,1,0,21.009568,52.22373,<3.5
+237,bella-napoli-kolejowa,51RROQ3,26,1977,"pizza_1386, italian_21, pasta_1376",25,50,4.6,1,1,0,20.9829201,52.2263433,>4.3
+238,chmielarnia,53R3NQ3,9,1033,"thai_61, salads_1456, lunch_1226",55,80,4.5,0,1,0,20.995434,52.231085,>4.3
+239,mr-india,53RRNQ3,98,2226,"indian_1596, fish_421",40,65,4.7,1,1,0,21.053143,52.1427769,>4.3
+240,kwadrans-cafe,550O5Q3,0,796,"burgers_1276, dumplings_1236, lunch_1226",20,45,4.7,1,1,0,21.0213092,52.205116,>4.3
+242,pan-sushi,555NNQ3,10,357,"sushi_51, falafel_1215, japanese_551",30,55,4.6,1,1,0,20.9804042,52.2744643,>4.3
+243,kebab-king-centrum,57073Q3,32,3728,"kebab_1606, turkish_511, lunch_1226",50,75,3.5,1,0,1,21.0013741,52.2337414,<3.5
+244,pizza-na-wypasie-mokotow,5717QQ3,197,5393,"pizza_1386, italian_21, falafel_1215",50,75,4.5,0,1,1,21.0176069,52.208112,>4.3
+245,pizza-przy-politechnice,57730Q3,9,1244,"pizza_1386, italian_21, pasta_1376",20,45,4.1,1,1,0,21.0112381,52.221647,3.8-4.3
+246,katmandu,57O00Q3,4,1285,"indian_1596, thai_61, vegetarian_391",80,100,4.7,1,1,1,21.0084917,52.2259398,>4.3
+247,toro-sushi,5O013Q3,5,87,"sushi_51, thai_61, japanese_551",40,65,4.6,1,1,0,21.0790835,52.2289291,>4.3
+248,la-bufala-warszawa-1,5ON53Q3,13,621,italian_21,15,40,4.5,1,1,0,20.9921174,52.2299414,>4.3
+249,trattoria-toscana-chlodna,5P770Q3,0,1616,"pizza_1386, italian_21, pasta_1376",50,60,3.9,1,1,0,20.9900226,52.2373921,3.8-4.3
+250,jak-u-mamy-obiady-domowe,5PP71Q3,0,931,"polish_1216, soup_1406, lunch_1226",25,50,4.7,1,1,0,21.0050557,52.1710717,>4.3
+251,chicagos-pizza-pasta-grill-waszyngtona,5PQ03Q3,51,1511,"pizza_1386, burgers_1276, pasta_1376",40,65,4.1,1,1,0,21.0763,52.2431639,3.8-4.3
+252,rasoi-restauracja-indyjska,5PQ33Q3,86,4269,"indian_1596, curry_1576, vegetarian_391",50,75,4.6,1,1,1,21.0000337,52.2291269,>4.3
+253,besuto-sushi-bar,5PQONQ3,0,856,"sushi_51, lunch_1226, japanese_551",50,75,4.3,1,1,0,21.0193799,52.2329505,3.8-4.3
+255,sapko-kebab,5R15NQ3,34,1041,"turkish_511, salads_1456, lunch_1226",55,65,4.7,1,1,0,20.9931993,52.2430422,>4.3
+256,pizzeria-u-dziada,5RP71Q3,35,744,"pizza_1386, italian_21, pasta_1376",50,75,4.0,1,1,0,20.9677411,52.2345029,3.8-4.3
+257,silk-spicy,N001075,9,19,"thai_61, fish_421, japanese_551",50,60,4.5,1,1,0,21.0166821,52.2287753,>4.3
+258,dzikie-jadlo-burger,N0011O7,384,3380,"burgers_1276, american_1296, salads_1456",30,55,4.8,1,1,1,20.964108,52.2390369,>4.3
+259,bong-bong-centrum,N0075P7,52,535,"chinese_41, thai_61, vietnamese_261",40,65,4.3,1,0,0,21.0172901,52.219454,3.8-4.3
+260,cwiercfunciak,N007Q55,9,182,"burgers_1276, american_1296, lunch_1226",50,60,4.8,1,1,0,20.9984748,52.253198,>4.3
+261,chicagos-grill-bar,N00NO55,0,20,"burgers_1276, american_1296, snacks_1286",50,60,4.6,1,1,0,20.9932725,52.2303295,>4.3
+262,sushi-ronin,N00R0N5,9,359,"sushi_51, lunch_1226, japanese_551",30,55,4.3,1,1,1,20.9219102,52.2759874,3.8-4.3
+264,foodporn-bar-klobucka,N010OPQ,69,1415,"pizza_1386, italian_21, american_1296",20,45,4.7,1,1,1,20.9925907,52.16261,>4.3
+265,green-it-przyokopowa,N015POR,10,199,"salads_1456, wrap_1416, lunch_1226",50,60,4.4,1,1,0,20.981711,52.230982,>4.3
+266,torotoro-sushi,N030N05,0,99,"sushi_51, seafood_1476, japanese_551",35,60,4.6,1,1,0,20.9900889,52.236014,>4.3
+267,mango-vegan-street-food-dobra-1,N0331PR,2,67,"falafel_1215, gluten-free_1556, wrap_1416",50,60,3.8,1,1,0,21.024542,52.241664,3.5-3.8
+268,bar-dla-wszystkich-kercelak,N05PRP5,38,699,"polish_1216, dumplings_1236, lunch_1226",45,55,4.8,1,1,1,20.9878444,52.2370465,>4.3
+269,ciao-napoli-waski-dunaj,N05R7OR,0,46,"pizza_1386, italian_21, salads_1456",50,60,4.3,1,1,0,21.0109294,52.2497743,3.8-4.3
+270,amal-kebab-noc,N05RQQ7,49,1055,"pizza_1386, kebab_1606, burgers_1276",30,55,4.8,1,1,0,20.9191223,52.2578999,>4.3
+271,qchnia-pltrzech-krzyzy,N07O7P7,10,424,"chinese_41, thai_61, vietnamese_261",30,55,4.5,1,1,0,21.0212653,52.2297289,>4.3
+272,lokanta,N07P735,6,15,"pizza_1386, turkish_511, beef_1426",50,60,4.5,1,1,0,21.0090172,52.2274427,>4.3
+273,yasaka-sushi-plock,N07RP75,0,46,"sushi_51, japanese_551",50,75,4.6,1,1,0,21.050379,52.150085,>4.3
+274,pizza-burger-frodo,N0N0155,0,9,"pizza_1386, italian_21, burgers_1276",50,60,4.6,1,1,1,20.9999308,52.2292834,>4.3
+275,bar-viet-my,N0NNR75,4,818,"chinese_41, thai_61, vietnamese_261",50,60,4.4,1,1,0,20.9962232,52.2340549,>4.3
+276,niezle-ziolko,N0O0375,2,13,"salads_1456, sandwiches_671, breakfast_681",55,65,4.9,1,1,1,21.018566,52.225797,>4.3
+277,non-solo-pizza,N0O1O55,19,128,"pizza_1386, italian_21, pasta_1376",50,60,4.2,1,1,0,20.984537,52.2209741,3.8-4.3
+278,dominos-pizza-warszawa-jana-pawla-ii,N0P3775,24,283,"pizza_1386, american_1296, snacks_1286",20,30,3.9,0,1,1,20.9911297,52.2440589,3.8-4.3
+279,green-it-wkd-srodmiescie,N0P5N0R,3,280,"salads_1456, wrap_1416, lunch_1226",50,60,4.6,1,1,0,21.000139,52.2270619,>4.3
+280,kaviarnioteka,N100N55,0,57,"burgers_1276, pasta_1376, lunch_1226",50,60,4.1,1,1,0,20.9801814,52.2407131,3.8-4.3
+281,ha-linh,N105O75,0,264,"chinese_41, thai_61, vietnamese_261",80,100,4.5,0,1,0,20.9690673,52.2343639,>4.3
+282,asia-anh,N10P0O5,17,225,"chinese_41, duck_1506, beef_1426",30,55,4.4,1,1,0,21.0159002,52.2247735,>4.3
+284,future-wine,N13OR77,0,6,"italian_21, pasta_1376, lunch_1226",50,60,3.2,1,1,1,21.0147441,52.2271786,<3.5
+285,boczniaks,N155O07,0,21,"vegetarian_391, falafel_1215, international_1486",50,60,4.6,1,0,0,21.032326,52.2342733,>4.3
+286,subway-warszawa-aleje-jerozolimskie,N15Q155,3,6,"salads_1456, sandwiches_671, wrap_1416",50,60,4.9,1,1,1,21.0032258,52.2288233,>4.3
+287,thai-fun,N15QQ57,97,2196,"thai_61, curry_1576",30,55,4.7,1,1,1,21.0680486,52.2469144,>4.3
+288,bobby-burger-warszawa-kasprzaka,N1711O5,5,179,"burgers_1276, american_1296, snacks_1286",50,60,3.4,1,1,1,20.9688188,52.2287903,<3.5
+289,mango-vegan-street-food-koszyki,N1N31PR,0,194,"falafel_1215, wrap_1416",50,60,4.8,1,1,0,21.0106572,52.2226065,>4.3
+290,noc-i-dzien-pizza-warszawa,N1N3757,7,355,"pizza_1386, italian_21, lunch_1226",50,75,4.0,1,1,1,20.9943292,52.2418915,3.8-4.3
+292,game-of-pizza,N1O0707,42,1359,"pizza_1386, italian_21, pasta_1376",30,55,4.5,1,0,1,20.98213,52.24974,>4.3
+293,van-binh-grojecka,N1P1755,20,717,"chinese_41, thai_61, vietnamese_261",50,60,4.4,0,1,0,20.9760454,52.2107988,>4.3
+294,curry-leaves-hala-koszyki-koszykowa,N1PPPOQ,2,121,"indian_1596, curry_1576, international_1486",50,60,4.6,1,1,0,21.0106572,52.2226065,>4.3
+296,zapiexy-luxusowe-widok,N1Q305Q,0,74,"polish_1216, snacks_1286, lunch_1226",50,60,3.6,1,1,0,21.0133541,52.230787,3.5-3.8
+297,express-marche-warszawa-zlote-tarasy,N1R00O5,4,8,"polish_1216, dumplings_1236, lunch_1226",50,60,4.7,1,0,0,21.0014321,52.2302995,>4.3
+298,canton,N1R13P5,2,4,"chinese_41, vegetarian_391, lunch_1226",55,65,4.0,1,1,0,20.987194,52.2423439,3.8-4.3
+299,u-siostr,N1RO0P5,0,131,"polish_1216, dumplings_1236, international_1486",50,60,4.6,0,1,0,20.9987377,52.2299481,>4.3
+301,vintuna-kuchnia-tajska,N1RQ75O,11,595,"thai_61, soup_1406, seafood_1476",55,80,4.5,1,1,0,20.9444942,52.2427869,>4.3
+302,bong-bong-asian-bistro,N30555O,292,7477,"chinese_41, thai_61, vietnamese_261",30,55,4.8,1,1,0,21.0157286,52.2091763,>4.3
+303,saito-sushi-warszawa,N30PP5Q,37,407,"sushi_51, lunch_1226, japanese_551",55,80,4.4,1,1,0,20.9522627,52.2028064,>4.3
+304,sushipak-waw,N30QOR7,24,186,"sushi_51, vegetarian_391, japanese_551",55,80,4.2,1,1,1,21.032326,52.2342733,3.8-4.3
+306,tian-house,N31R5RO,0,55,"chinese_41, soup_1406, lunch_1226",50,60,4.7,1,1,0,21.021693,52.2127849,>4.3
+307,wypas-burger-monte-cassino,N3333NQ,23,1686,"burgers_1276, american_1296, vegetarian_391",45,70,4.1,1,1,1,20.9443439,52.2372889,3.8-4.3
+308,bar-anh-tuan,N335335,16,60,"chinese_41, thai_61, vietnamese_261",55,65,4.3,1,1,0,21.0512875,52.2373758,3.8-4.3
+309,nalesnikarnia-lalka-marszalkowska,N33N335,22,363,"polish_1216, pasta_1376, pancakes_1674",55,65,4.2,1,1,1,21.0177728,52.218319,3.8-4.3
+310,bistro-wiejska,N33R535,0,11,"burgers_1276, pasta_1376, lunch_1226",50,60,3.6,1,1,0,21.0255875,52.2261345,3.5-3.8
+311,przysmak-lwowska-11,N353O55,0,53,"polish_1216, soup_1406, lunch_1226",55,65,5.0,1,1,1,21.0121842,52.2216308,>4.3
+312,nonna-rita-ristorante-italiano,N353P05,0,28,"pizza_1386, italian_21, lunch_1226",50,60,4.2,1,1,1,21.00741,52.2528924,3.8-4.3
+313,zachcianek-pierogarnia-polska,N35PQO5,0,4,"polish_1216, pasta_1376, dumplings_1236",50,60,3.9,1,1,0,21.0126156,52.250129,3.8-4.3
+314,nienazarty-warszawa-1,N35QP57,0,10,"pizza_1386, french_321, seafood_1476",50,60,4.1,1,1,0,21.030465,52.235898,3.8-4.3
+315,makkaron-pasta-bar-czerwonego-krzyza,N35QQ55,0,17,"italian_21, pasta_1376, lunch_1226",50,60,4.3,1,1,0,21.0296028,52.2353729,3.8-4.3
+316,miedzy-bulkami,N35R155,0,44,"burgers_1276, american_1296, soup_1406",80,100,4.6,1,1,0,21.0157299,52.230384,>4.3
+318,krowarzywa-warszawa-hoza,N3N50O5,6,289,"burgers_1276, vegetarian_391, falafel_1215",50,60,3.9,1,1,0,21.0145603,52.2261751,3.8-4.3
+319,winestone-warszawa-centrum,N3O0PO5,0,9,"pasta_1376, sandwiches_671, international_1486",50,60,5.0,1,1,0,21.001193,52.2309099,>4.3
+321,pod-karpiem-warszawa-1,N3P0505,0,30,"polish_1216, lunch_1226",20,45,4.4,1,1,0,21.0419797,52.2605834,>4.3
+322,gospoda-kwiaty-polskie,N3PNO55,0,14,"polish_1216, dumplings_1236, duck_1506",50,60,4.6,1,1,0,21.0109294,52.2497743,>4.3
+323,van-binh-banaha-1,N3Q57P5,13,28,"chinese_41, thai_61, vietnamese_261",45,55,3.9,0,1,0,20.9863476,52.2098897,3.8-4.3
+324,stara-szafa,N3Q7355,2,23,"polish_1216, dumplings_1236, soup_1406",55,65,4.5,1,1,0,21.0338543,52.2304536,>4.3
+326,barbakan-korkociag,N3RR307,0,29,"polish_1216, dumplings_1236, lunch_1226",50,60,4.2,1,1,1,21.008736,52.250954,3.8-4.3
+327,tsongkha-momo-kuchnia-tybetanska,N505O5R,0,22,"soup_1406, lunch_1226, international_1486",35,45,5.0,1,1,0,20.9921749,52.24265,>4.3
+328,boruta,N507007,23,458,"polish_1216, dumplings_1236",80,100,4.2,1,1,0,21.0079448,52.2523639,3.8-4.3
+329,spicy-kebab-grill-wola,N50O0NQ,75,1534,"kebab_1606, falafel_1586, arab_1566",30,55,4.3,1,1,0,20.98742,52.2390315,3.8-4.3
+330,fenicja-kebab-francuska-31,N513N05,27,144,"kebab_1606, falafel_1586, wrap_1416",55,65,4.6,0,1,1,21.0532179,52.235119,>4.3
+331,why-thai-express-warszawa,N550OP5,6,179,"thai_61, curry_1576, duck_1506",40,65,4.2,1,0,1,21.024881,52.2264829,3.8-4.3
+333,bombay-dreams,N55N3OR,46,828,"indian_1596, curry_1576",35,60,4.6,1,1,1,20.9068314,52.1908361,>4.3
+334,lolek-grill-bar,N571N07,11,45,"burgers_1276, polish_1216, lunch_1226",45,55,4.2,0,1,0,20.9926652,52.2109331,3.8-4.3
+335,makalu-restauracja-indyjska,N575Q57,10,1363,"indian_1596, curry_1576, lunch_1226",35,60,4.6,1,1,0,20.969076,52.2291373,>4.3
+336,parnik-warszawa-chmielna,N57N575,46,94,"chinese_41, salads_1456, soup_1406",25,50,4.5,1,1,0,21.0000337,52.2291269,>4.3
+337,ristorante-capriccio,N57RNPQ,0,5,"pizza_1386, italian_21, lunch_1226",50,60,4.6,1,1,0,21.0193644,52.2338821,>4.3
+338,om-sienna,N5NO55O,7,1862,"indian_1596, thai_61, vegetarian_391",50,75,4.8,0,1,0,20.9920978,52.2300399,>4.3
+339,yache-korea,N5NPORQ,7,196,"vegetarian_391, lunch_1226, korean_1114",50,60,4.5,1,1,0,21.0145689,52.2291759,>4.3
+340,toan-pho,N5O5O55,0,21,"thai_61, vietnamese_261, beef_1426",50,60,4.5,1,1,0,21.0183532,52.2329781,>4.3
+341,obiadek-warszawa,N5O5Q75,0,131,"polish_1216, lunch_1226, poultry_1536",30,55,4.3,1,1,0,21.0624091,52.2305479,3.8-4.3
+342,tien-tien-warszawa,N5O7375,15,674,"chinese_41, vietnamese_261, duck_1506",45,70,4.1,1,1,0,21.0417854,52.202263,3.8-4.3
+343,arirang,N5O7N55,6,12,"thai_61, japanese_551, korean_1114",50,60,4.8,1,1,0,21.0106297,52.2286095,>4.3
+344,kamanda-lwowska,N5OR355,0,13,"polish_1216, dumplings_1236, lunch_1226",50,60,4.6,0,1,0,21.022395,52.2343319,>4.3
+345,edamame-vegan-sushi,N5P1OO5,0,6,"sushi_51, falafel_1215, japanese_551",50,60,4.6,1,1,0,21.0200228,52.2256849,>4.3
+346,co-tu,N5P1P07,4,142,"vietnamese_261, beef_1426, seafood_1476",50,60,4.4,1,1,0,21.0199871,52.2328949,>4.3
+347,dom-smakow-warszawa,N5P77O5,7,55,"polish_1216, duck_1506, pork_1436",45,55,4.5,1,1,1,20.9936381,52.2540177,>4.3
+348,silver-dragon-towarowa,N5POQP5,7,98,"vietnamese_261, lunch_1226",55,65,4.6,1,1,0,20.9801231,52.2352855,>4.3
+349,gruba-ryba-warszawa,N5PPQ75,12,380,"sushi_51, thai_61, soup_1406",55,80,4.1,0,1,0,20.977283,52.231201,3.8-4.3
+350,kuchnia-wietnamska-mama-pho,N5QR075,4,312,"chinese_41, thai_61, vietnamese_261",50,60,3.9,1,1,0,21.019285,52.2340615,3.8-4.3
+351,guru,N5R10R7,0,72,"indian_1596, curry_1576, salads_1456",50,60,4.0,1,1,0,21.0151525,52.2316341,3.8-4.3
+352,a-modo-mio,N5R5QRO,32,1856,"pizza_1386, italian_21, pasta_1376",50,60,4.1,0,1,0,20.9743568,52.2086949,3.8-4.3
+353,ceprownia-restauracja,N700O35,0,25,"polish_1216, snacks_1286, lunch_1226",50,60,3.7,1,1,1,21.016295,52.240097,3.5-3.8
+354,w-oparach-absurdu,N701O07,2,80,"polish_1216, dumplings_1236",80,100,3.6,1,1,0,21.0391253,52.2525425,3.5-3.8
+355,sefa-kebab,N701P35,21,603,"kebab_1606, turkish_511, falafel_1586",55,65,3.9,0,1,1,20.9665292,52.2368661,3.8-4.3
+356,el-kurra,N7037RQ,36,634,"polish_1216, lunch_1226, mexican_221",50,75,4.2,1,1,1,20.9226092,52.2763374,3.8-4.3
+357,everest-nepal-restauracja-nepalska-i-indyjska,N703RO5,13,312,"indian_1596, curry_1576, lunch_1226",35,60,4.7,1,1,1,20.9912719,52.2248373,>4.3
+358,steakownia-warszawa,N71O307,8,37,"burgers_1276, american_1296, beef_1426",50,60,4.4,1,1,0,21.0175205,52.2274709,>4.3
+359,sushiroll-bistro,N730NRO,136,2204,"sushi_51, falafel_1215, japanese_551",80,100,3.8,1,1,1,21.1066669,52.2365519,3.5-3.8
+360,sofra-warszawa,N73R375,3,16,"turkish_511, vegetarian_391, arab_1566",50,60,4.5,1,1,0,21.0088028,52.2232827,>4.3
+361,tapas-gastrobar,N753O75,0,27,"burgers_1276, spanish-and-tapas_11, seafood_1476",50,60,3.6,1,1,0,20.9861621,52.2335625,3.5-3.8
+362,specjaly-regionalne,N75Q155,0,29,"polish_1216, dumplings_1236, lunch_1226",50,60,4.7,0,1,0,21.0190475,52.234567,>4.3
+363,starbucksr-nowy-swiat,N77QR75,0,10,"coffee_1164, cake_251, breakfast_361",50,60,4.4,1,0,0,21.0184642,52.23604,>4.3
+364,pizzeria-na-nowolipkach-warszawa,N7OO3NQ,13,437,"pizza_1386, italian_21, pasta_1376",50,60,4.2,1,1,0,20.993433,52.2451914,3.8-4.3
+365,momu,N7PPQ55,7,9,"burgers_1276, polish_1216, pasta_1376",50,60,4.7,1,1,0,21.0079239,52.2435278,>4.3
+366,karma-restaurant-warszawa,N7PQNNR,11,118,"indian_1596, curry_1576, lunch_1226",25,50,4.5,1,1,1,20.990211,52.244656,>4.3
+367,bistro-32-swietokrzyska,N7QNO55,0,3,"burgers_1276, polish_1216, international_1486",50,60,4.1,1,1,0,21.0031145,52.2344441,3.8-4.3
+368,la-dolce-vita-warszawa,NN005O5,0,7,"pizza_1386, italian_21, pasta_1376",50,60,4.4,1,1,0,21.0136946,52.2479158,>4.3
+369,monique-bakery-wine,NN0O535,0,16,"sandwiches_671, french_321, pancakes_1674",50,60,4.0,1,1,0,21.0168387,52.2291788,3.8-4.3
+370,tele-sajgon-miedziana,NN0QN55,42,1325,"chinese_41, vietnamese_261, japanese_551",25,50,4.5,1,1,0,20.9912663,52.2274122,>4.3
+371,mango-vegan-restaurant-zelazna,NN131PR,3,282,"turkish_511, vegetarian_391, falafel_1215",55,65,4.4,1,1,1,20.990744,52.235411,>4.3
+372,nocna-wyzerka-warszawa,NN13757,92,957,"pizza_1386, italian_21, pasta_1376",30,55,4.7,1,1,1,21.1043686,52.2460124,>4.3
+373,bar-gold-kim,NN17735,2,22,"chinese_41, thai_61, vietnamese_261",50,60,4.5,1,1,0,21.0011939,52.2340699,>4.3
+374,so-an-sushi-club,NN30Q3R,10,21,"sushi_51, vegetarian_391, japanese_551",80,100,4.2,1,1,0,21.0145429,52.2327317,3.8-4.3
+375,croque-madame-warszawa,NN3PNO5,0,12,"lunch_1226, french_321, pancakes_1674",50,60,4.3,1,1,0,21.0185569,52.234353,3.8-4.3
+376,ck-oberza,NN51O55,12,20,"polish_1216, dumplings_1236, duck_1506",50,60,4.6,1,1,0,21.013125,52.23218,>4.3
+377,u-pana-michala,NN5RPO5,6,17,"polish_1216, soup_1406, lunch_1226",50,60,4.6,1,1,0,21.0092217,52.2510074,>4.3
+378,pizza-po-zachodzie,NN730NQ,373,2122,"pizza_1386, italian_21, snacks_1286",30,55,4.2,1,1,0,21.028659,52.2870214,3.8-4.3
+379,dzielna60,NN7O075,0,7,"polish_1216, dumplings_1236, lunch_1226",55,65,4.6,1,1,0,20.983185,52.243874,>4.3
+380,the-mexican-warszawa,NN7P307,0,9,"snacks_1286, mexican_221",50,60,3.2,1,1,0,21.0139548,52.2328449,<3.5
+381,dominium-by-dominos-polna-warszawa,NNNN1Q7,10,249,"pizza_1386, italian_21, lunch_1226",30,55,3.6,0,1,1,21.0136395,52.2191644,3.5-3.8
+382,hoppiness-beernfood,NNO5P35,0,24,"burgers_1276, american_1296, beef_1426",50,60,4.3,1,1,0,21.013845,52.2317259,3.8-4.3
+383,salad-story-zlote-tarasy,NNOP1O5,0,48,"salads_1456, vegetarian_391, wrap_1416",55,65,3.9,1,1,0,21.0026871,52.2301084,3.8-4.3
+384,trattoria-boccone,NNPQ135,29,379,"italian_21, pasta_1376, salads_1456",45,70,4.5,0,1,0,20.9771089,52.2314593,>4.3
+385,pho-2,NNR5QOR,3,494,"vietnamese_261, soup_1406",50,60,4.6,0,1,0,21.0241018,52.2399193,>4.3
+386,himalayan-yeti,NNR7037,30,1037,"indian_1596, thai_61, curry_1576",30,55,4.8,1,1,0,21.0137909,52.218458,>4.3
+387,madras,NNRQR15,13,358,"indian_1596, curry_1576, lunch_1226",80,100,4.9,1,1,0,20.9815293,52.2412003,>4.3
+388,ciao-napoli-dluga,NO00QOR,4,205,"pizza_1386, italian_21, pasta_1376",55,65,4.5,1,1,0,21.0085077,52.2506489,>4.3
+389,pizzeria-giovanni,NO0OP05,0,1741,"pizza_1386, italian_21, pasta_1376",35,45,3.5,1,1,1,20.9821297,52.2497392,<3.5
+390,zona-italiana,NO0P735,2,11,"pizza_1386, italian_21, pasta_1376",50,60,4.6,1,1,0,21.0070861,52.2530167,>4.3
+391,trattoria-rucola-warszawa-miodowa,NO13Q75,27,6,"pizza_1386, italian_21, pasta_1376",50,60,3.6,1,1,0,21.013235,52.246107,3.5-3.8
+392,restro,NO1N3O5,0,20,"pizza_1386, italian_21, pasta_1376",35,45,4.4,0,1,1,20.995721,52.231764,>4.3
+393,bobby-burger-renova,NO1O3NQ,11,296,"burgers_1276, american_1296, snacks_1286",60,85,3.4,1,1,0,21.0300549,52.2901022,<3.5
+394,florian-ogien-czy-woda,NO3PQ55,0,20,"polish_1216, lunch_1226, international_1486",50,60,4.5,1,1,1,20.993722,52.2384415,>4.3
+395,babylon-warszawa,NO57735,26,183,"polish_1216, dumplings_1236, lunch_1226",50,60,4.6,0,1,1,20.9782,52.217705,>4.3
+396,sushi-mori-tarchomin,NO5P0Q5,28,942,"sushi_51, japanese_551",55,80,4.8,1,1,1,20.9397919,52.328581,>4.3
+399,amman-kebab,NO70RP5,0,36,"kebab_1606, falafel_1586, arab_1566",50,60,4.2,1,1,0,21.0128455,52.2201559,3.8-4.3
+400,warsaw-burger-bar-piekna,NO73Q57,53,2266,"burgers_1276, american_1296, beef_1426",40,65,4.5,1,1,0,21.0118645,52.2230946,>4.3
+401,tulsi,NO75315,3,523,indian_1596,25,50,4.5,1,1,0,21.016841,52.183828,>4.3
+402,pikanteria-restauracja,NO7O535,4,200,"polish_1216, soup_1406, lunch_1226",25,50,4.4,1,1,0,21.063501,52.236429,>4.3
+403,hanesushi,NON1RO5,16,24,"sushi_51, vegetarian_391, japanese_551",65,90,4.5,1,1,0,21.0310755,52.2888088,>4.3
+404,buena-vista-social-food,NON530Q,6,67,"burgers_1276, american_1296, poke-bowl_2318",50,60,4.6,1,1,0,21.0105752,52.2225733,>4.3
+405,big-szef,NON7RN7,2,148,"kebab_1606, turkish_511, gyros_1356",45,55,3.8,1,1,0,21.008852,52.235651,3.5-3.8
+406,zdrowa-krowa-kasprzaka,NONOO0Q,3,438,"burgers_1276, american_1296, salads_1456",65,90,3.8,1,1,0,20.9750434,52.2289885,3.5-3.8
+407,stolowka-u-chlopakow,NONR1O5,0,664,"polish_1216, soup_1406, lunch_1226",50,60,4.3,1,1,0,20.9915388,52.2362409,3.8-4.3
+408,indira-restauracja-indyjska,NOORN75,2,101,"indian_1596, curry_1576",45,55,4.6,1,1,0,20.991932,52.2251134,>4.3
+409,bistro-fraza,NOQ0775,0,6,"polish_1216, falafel_1215, lunch_1226",50,60,5.0,1,1,0,21.0190211,52.2209287,>4.3
+410,sushiroll-bistro-noca,NOQ1507,16,446,"sushi_51, falafel_1215, japanese_551",80,100,3.5,1,1,1,21.053665,52.2343477,<3.5
+411,art-sushi-warszawa,NOQ5RO7,0,20,"sushi_51, lunch_1226, japanese_551",35,45,4.5,1,1,0,21.0065569,52.2277225,>4.3
+412,la-vietnamita,NOR03PR,0,145,"chinese_41, thai_61, vietnamese_261",50,75,4.2,0,1,0,20.9919215,52.2446115,3.8-4.3
+413,wegeguru,NOR0N07,0,25,"thai_61, vegetarian_391, falafel_1215",50,60,4.6,1,1,0,21.0191315,52.218185,>4.3
+414,khuk-thai-food,NORPQN5,5,103,"thai_61, lunch_1226, seafood_1476",55,65,4.2,1,1,0,21.0101331,52.2369688,3.8-4.3
+415,sagarmatha-kuchnia-nepalska,NORQR55,4,72,"indian_1596, dumplings_1236, lunch_1226",50,60,4.8,0,1,0,20.9690673,52.2343639,>4.3
+416,trattoria-pecorino,NP01507,3,19,"pizza_1386, pasta_1376",50,60,4.4,1,1,0,21.0087411,52.251405,>4.3
+417,salad-story-warszawa-prosta,NP03775,15,58,"salads_1456, vegetarian_391, wrap_1416",45,55,4.3,1,1,0,20.9880429,52.23148,3.8-4.3
+418,sapko-kebab-warszawa,NP0QRP5,5,44,"kebab_1606, turkish_511, salads_1456",55,65,4.1,0,1,0,20.9676647,52.2344406,3.8-4.3
+419,lunch-for-you,NP1Q175,135,3254,"polish_1216, lunch_1226, breakfast_361",30,55,5.0,1,1,0,20.9707275,52.2716988,>4.3
+420,koreatown,NP3Q335,3,442,"vietnamese_261, duck_1506, korean_1114",50,60,4.0,0,1,0,21.022027,52.20643,3.8-4.3
+421,la-iberica-warszawa,NP57337,15,49,"sandwiches_671, international_1486, spanish-and-tapas_11",50,75,4.0,1,1,0,20.978876,52.254441,3.8-4.3
+423,subway-warszawa-nowy-swiat,NP7OO55,2,6,"american_1296, salads_1456, wrap_1416",45,55,3.8,1,1,0,21.0200103,52.2329622,3.5-3.8
+424,salad-story-warszawa-krucza,NPN7775,7,34,"salads_1456, vegetarian_391, wrap_1416",45,55,4.8,1,1,0,21.0167885,52.2292053,>4.3
+425,curry-house-hoza,NPO7R7O,178,3452,"indian_1596, salads_1456, soup_1406",40,65,4.8,1,1,0,21.01228,52.22597,>4.3
+426,youmiko-vegan-sushi,NPONOO5,0,32,"sushi_51, falafel_1215, japanese_551",50,60,4.7,1,1,0,21.0107094,52.2255591,>4.3
+427,akashia,NPP7135,16,167,"sushi_51, soup_1406, japanese_551",30,55,4.4,1,1,0,21.0019684,52.2319356,>4.3
+428,u-tato,NPPQ1Q5,14,110,"soup_1406, georgian_1516, lunch_1226",50,60,4.6,1,1,0,21.0207314,52.2242081,>4.3
+429,matcha-bistro-bar,NPQ5QP7,0,16,"pasta_1376, desserts_954, japanese_551",50,60,4.6,1,1,0,21.0178069,52.219206,>4.3
+430,casa-italia,NPQPPP5,0,12,"pizza_1386, italian_21, soup_1406",50,60,4.5,1,1,0,21.0072327,52.2511408,>4.3
+431,night-burger,NPQR137,0,290,"burgers_1276, american_1296",80,100,4.5,1,1,1,21.1066669,52.2365519,>4.3
+432,kwadrat-bistro-art,NPR07O5,0,10,"burgers_1276, soup_1406, lunch_1226",50,60,5.0,1,1,0,21.008587,52.2360709,>4.3
+433,bollywood-lounge-warszawa,NPRON07,0,21,indian_1596,55,65,4.6,0,1,0,21.0187226,52.2354057,>4.3
+434,silver-dragon-warszawa-stawki,NPRORO5,3,38,"chinese_41, thai_61, vietnamese_261",50,60,3.5,1,1,0,20.9910862,52.2533117,<3.5
+435,krowarzywa-marszalkowska,NPRQQQ7,5,581,"burgers_1276, falafel_1215, vegetarian_391",45,55,4.4,1,1,1,21.0177728,52.218319,>4.3
+436,pod-zegarem-warszawa,NPRR307,0,5,"polish_1216, dumplings_1236, lunch_1226",50,60,4.3,1,1,0,21.0108001,52.248481,3.8-4.3
+437,organic-corner,NQ0R155,0,9,"falafel_1215, gluten-free_1556, desserts_954",50,60,4.9,0,1,0,20.9971981,52.203086,>4.3
+438,parnik-warszawa-wolska,NQ53P75,2,119,"chinese_41, salads_1456, soup_1406",45,70,4.0,0,1,0,20.9690673,52.2343639,3.8-4.3
+439,sao-do,NQ55P55,10,556,"chinese_41, thai_61, vietnamese_261",50,75,4.1,1,1,0,21.0234382,52.1996675,3.8-4.3
+440,spacca-napoli-warszawa-swietokrzyska,NQ5NO75,55,625,"pizza_1386, italian_21, pasta_1376",55,65,4.6,1,1,0,21.0055576,52.2349451,>4.3
+441,fabryka-frytek-warynskiego,NQ5OQ57,4,164,"burgers_1276, american_1296, snacks_1286",50,60,4.5,1,1,0,21.0151248,52.2206326,>4.3
+442,subway-warszawa-tamka,NQ71075,2,19,"burgers_1276, american_1296, wrap_1416",50,60,3.6,1,1,0,21.014135,52.230036,3.5-3.8
+443,focaccia-ristorante,NQ73O75,0,67,"pizza_1386, italian_21, pasta_1376",55,65,4.4,1,1,0,21.012003,52.2459245,>4.3
+444,mechanizm-krecenia-pizza-noca-1,NQ73Q05,165,1534,"pizza_1386, italian_21, salads_1456",35,60,4.1,1,1,1,20.9592896,52.2349685,3.8-4.3
+445,burgery-noca-warszawa,NQN300R,175,2509,"burgers_1276, american_1296, snacks_1286",30,55,4.7,1,1,0,21.023059,52.2904179,>4.3
+446,barek-z-klimatem,NQNOQ75,0,46,"polish_1216, dumplings_1236, soup_1406",50,60,4.8,1,1,0,20.9992587,52.2267594,>4.3
+447,bao-long,NQO3N35,0,8,"thai_61, vietnamese_261, lunch_1226",30,40,4.6,1,1,0,20.9848812,52.2471008,>4.3
+448,pizza-napoletana-zielona-ges,NQO5335,2,145,"pizza_1386, italian_21, lunch_1226",50,60,3.6,1,1,0,21.00623,52.2100269,3.5-3.8
+449,stol-bistro,NQO7735,12,149,"pasta_1376, sandwiches_671, pancakes_1674",55,65,4.6,1,1,0,20.9923544,52.2448557,>4.3
+450,cafe-mozaika,NQONO55,0,103,"polish_1216, arab_1566",45,55,4.8,0,1,0,21.0235621,52.2045753,>4.3
+451,shahi-curry,NQP5OO7,17,479,"indian_1596, curry_1576",30,55,4.9,1,1,1,20.9801231,52.2352855,>4.3
+452,koreana,NQPQQ55,10,56,"japanese_551, korean_1114",55,65,4.7,1,1,0,20.9877401,52.2194379,>4.3
+453,barts-burger-bar,NQPR1RO,63,974,"burgers_1276, american_1296, lunch_1226",30,55,4.7,1,1,0,20.9779687,52.2121614,>4.3
+454,na-cyplu,NQQ3R3R,0,20,"pizza_1386, pasta_1376, lunch_1226",55,65,4.6,0,1,0,21.0453306,52.2260545,>4.3
+456,krowarzywa-jana-pawla-ii,NQRO35Q,22,1366,"burgers_1276, vegetarian_391, falafel_1215",55,65,3.9,1,1,0,20.9921749,52.24265,3.8-4.3
+457,gli-italiani-pizzeria-spaghetteria,NR0N0OO,16,773,"pizza_1386, italian_21, pasta_1376",55,65,3.7,1,1,0,21.0173788,52.2071889,3.5-3.8
+458,sora,NR0P1O5,16,38,"sushi_51, seafood_1476, korean_1114",45,55,4.8,1,1,0,20.985009,52.234738,>4.3
+459,thai-thai,NR1R375,0,11,"thai_61, salads_1456, soup_1406",10,20,4.8,0,1,0,21.0090376,52.2436544,>4.3
+460,mango-vegan-street-food-bracka,NR331PR,0,57,"kebab_1606, vegetarian_391, falafel_1586",50,60,4.1,1,1,0,21.0164821,52.2319729,3.8-4.3
+461,salad-story-nowy-swiat,NR3P1O5,4,29,"salads_1456, vegetarian_391, wrap_1416",50,60,4.6,1,1,0,21.0208936,52.2324404,>4.3
+462,trattoria-da-antonio-warszawa-aleje-jerozolimskie,NR3P535,3,6,"pizza_1386, italian_21, pasta_1376",45,55,3.9,1,1,1,20.9923831,52.2252365,3.8-4.3
+463,jas-malgosia,NR3PP07,45,308,"italian_21, polish_1216, lunch_1226",50,60,4.6,1,1,0,20.988553,52.2468099,>4.3
+464,zaparowani-noca,NR51157,76,556,"chinese_41, dumplings_1236",40,65,4.5,1,1,0,20.9592896,52.2349685,>4.3
+465,sushi-muranow,NR5PQQ7,0,160,"sushi_51, lunch_1226, japanese_551",45,70,4.4,1,1,0,20.995033,52.2547031,>4.3
+466,bekef,NR77RP5,0,69,"falafel_1215, falafel_1586, international_1486",35,45,4.7,1,1,0,20.998704,52.231567,>4.3
+467,bar-mleczny-biedronka,NR7OO55,21,22,"polish_1216, dumplings_1236, lunch_1226",50,60,4.0,0,1,1,20.9779841,52.2121743,3.8-4.3
+468,salad-story-pulawska,NRO0POQ,3,35,"salads_1456, vegetarian_391, wrap_1416",55,65,4.5,1,1,0,21.0185574,52.2118485,>4.3
+469,setka-warszawa,NRO5QO7,12,161,"polish_1216, lunch_1226",55,65,4.0,0,1,0,21.014138,52.2366559,3.8-4.3
+470,dominos-pizza-warszawa-towarowa,NRP3775,5,197,"pizza_1386, italian_21",15,40,3.8,0,1,1,20.9801584,52.2349981,3.5-3.8
+471,kafroun-kebab,NRPQ0OO,152,5656,"kebab_1606, turkish_511, arab_1566",30,55,4.3,1,1,1,20.968825,52.2288127,3.8-4.3
+472,folwark-warszawa,NRQ7355,0,47,"polish_1216, dumplings_1236, lunch_1226",65,90,4.1,1,1,0,21.0495869,52.2445317,3.8-4.3
+473,night-burger-noc,NRQNN37,140,2040,"burgers_1276, american_1296",50,75,4.0,1,1,1,21.1066669,52.2365519,3.8-4.3
+474,kompromis,NRQO7OQ,9,205,"pizza_1386, polish_1216, pasta_1376",50,60,4.3,1,1,1,20.9904113,52.2529475,3.8-4.3
+475,trattoria-da-antonio-warszawa,NRQQP75,7,17,"pizza_1386, italian_21, pasta_1376",50,60,4.1,1,1,1,21.016217,52.2287293,3.8-4.3
+476,sushi-party,NRRP307,0,75,"chinese_41, sushi_51, japanese_551",40,65,4.1,1,1,1,20.9742961,52.2307675,3.8-4.3
+478,wiesz-co-zjesz-warszawa,O011307N,4,54,"polish_1216, gluten-free_1556, fish_421",55,80,4.6,1,1,0,21.0165311,52.2214438,>4.3
+479,japonski-sasiad-banderii,O013OP7N,25,51,"sushi_51, japanese_551",55,80,4.5,1,1,0,20.964019,52.2451004,>4.3
+480,casa-ristoranti,O017ONP,2,114,"pizza_1386, italian_21",50,75,3.9,1,1,1,20.9960585,52.233715,3.8-4.3
+483,senor-lucas-taqueria,O03O0NPN,12,30,"wrap_1416, beef_1426, mexican_221",50,60,4.9,1,1,0,21.0120362,52.2252317,>4.3
+484,kafra-kebab-warszawa-1,O03P135N,0,126,"kebab_1606, turkish_511, falafel_1586",20,45,3.9,1,1,1,20.9912433,52.2439775,3.8-4.3
+485,minar-kebab,O0531701,2,222,"kebab_1606, turkish_511, gyros_1356",50,75,3.7,1,1,0,21.04808,52.205965,3.5-3.8
+486,kafra-kebab-warszawa-piekna,O057735N,0,8,"kebab_1606, turkish_511, falafel_1586",80,100,3.3,1,1,1,21.020253,52.2234721,<3.5
+488,luski-osci-sushi-more,O070QQN1,238,1189,"sushi_51, lunch_1226, japanese_551",50,75,4.8,1,1,0,20.9907206,52.2612823,>4.3
+489,mother-india-restaurant,O07Q07R1,13,142,"indian_1596, curry_1576, lunch_1226",45,70,4.7,1,1,1,20.9816366,52.2432659,>4.3
+490,urban-taste-smak-twojego-miasta,O07RNQN1,14,5,"pizza_1386, burgers_1276, lunch_1226",50,60,4.1,1,1,0,20.9944364,52.2400019,3.8-4.3
+491,sushi-saska-kepa,O0N0117,18,196,"sushi_51, gluten-free_1556, japanese_551",55,80,4.4,1,1,0,21.051558,52.229839,>4.3
+492,el-mexicano-mexican-foodkebab,O0N0PN31,0,153,"international_1486, beef_1426, mexican_221",50,60,3.9,1,1,0,20.9912147,52.2415829,3.8-4.3
+493,manufaktura-smaku-warszawa,O0N3R07N,0,8,"polish_1216, dumplings_1236, lunch_1226",50,60,4.5,1,0,1,21.020163,52.2165887,>4.3
+494,temaki-sushi-warszawa,O0N7RN7N,0,3,"sushi_51, lunch_1226, japanese_551",20,45,3.6,1,1,0,21.10158,52.226665,3.5-3.8
+495,tgi-fridays,O0NOO35N,0,52,"burgers_1276, american_1296, beef_1426",50,60,4.5,1,1,0,21.0188022,52.2331032,>4.3
+497,lemonka-smak-orientu-2,O0O01Q01,1,152,"chinese_41, thai_61, vietnamese_261",55,65,4.1,1,1,0,21.0028828,52.2317255,3.8-4.3
+499,bong-bong-wola,O0O3RR5N,17,378,"chinese_41, thai_61, vietnamese_261",45,70,4.3,0,1,1,20.9682706,52.2340757,3.8-4.3
+500,zushi-box,O0O50311,8,416,"sushi_51, lunch_1226, japanese_551",60,85,4.3,1,1,1,20.9281017,52.2633149,3.8-4.3
+501,little-hanoi,O0O575PN,10,15,"thai_61, vietnamese_261, lunch_1226",50,60,4.7,1,1,0,21.0147518,52.2328231,>4.3
+502,bar-restauracja-sajgonki,O0ON15PN,6,30,"thai_61, vietnamese_261, lunch_1226",50,60,4.5,1,1,0,20.9954506,52.2363025,>4.3
+504,uapami-warszawa-marszalkowska,O0OR31N1,0,52,falafel_1215,50,60,4.9,1,1,0,21.0195448,52.2165207,>4.3
+505,asia-house-viet-thai-food,O0OR517,5,354,chinese_41,30,55,4.6,0,1,0,21.0038471,52.2440643,>4.3
+506,the-mexican-marszalkowska,O0P31ON1,0,11,mexican_221,50,60,3.4,1,1,0,21.0140496,52.2269307,<3.5
+507,grande-pierogi-warszawa,O0PPN07N,31,194,"polish_1216, dumplings_1236, lunch_1226",75,100,4.5,1,1,1,21.0344604,52.2341052,>4.3
+509,viet-thai-warszawa-wolska,O0Q11031,22,159,"chinese_41, thai_61, vietnamese_261",50,60,4.4,1,1,0,20.9759059,52.2351306,>4.3
+510,zachodni-brzeg-powisle,O0QNP001,0,6,"turkish_511, lunch_1226, arab_1566",35,45,4.7,1,1,0,21.0393181,52.233737,>4.3
+511,north-fish-warszawa-ch-zlote-tarasy,O0QQ517,4,230,"lunch_1226, fish_421, seafood_1476",50,60,4.4,1,1,0,21.0026871,52.2301084,>4.3
+512,spoco-loco-francuska,O0R131N1,24,266,mexican_221,60,85,4.4,1,1,0,21.0556674,52.2323691,>4.3
+513,shrimp-house-grzybowska,O0R37R01,0,227,seafood_1476,60,85,4.3,1,1,0,20.991592,52.2344414,3.8-4.3
+514,ogrod-smaku-polska-i-smaczna-kuchnia,O0R7R001,0,346,"polish_1216, dumplings_1236, lunch_1226",55,80,4.0,1,1,0,20.996648,52.2395519,3.8-4.3
+515,soto-sushi-warszawa-warynskiego,O0RO71PN,140,886,"sushi_51, lunch_1226, japanese_551",20,45,4.9,1,1,0,21.0160194,52.2206268,>4.3
+516,warsaw-beef-bar-piaseczynska,O0ROQO5N,41,277,"burgers_1276, american_1296, snacks_1286",50,75,4.4,1,0,1,21.033628,52.202347,>4.3
+517,kura-warzyw-gemuse-kebap,O101N7N1,13,117,"kebab_1606, turkish_511, gyros_1356",55,65,4.3,1,1,0,21.0167143,52.2326317,3.8-4.3
+518,sambal-restauracja-indonezyjska-warszawa,O1073PN1,0,5,"chinese_41, vegetarian_391, international_1486",50,60,5.0,1,1,0,21.0113997,52.2506558,>4.3
+519,fenicja-kebab-restaurant-swietokrzyska-32,O1131NN1,0,207,"kebab_1606, falafel_1586, arab_1566",15,40,4.2,1,1,1,21.0031145,52.2344441,3.8-4.3
+520,milo-noca,O130NRPN,2,36,"pizza_1386, italian_21, desserts_954",55,80,3.4,1,1,1,20.9827803,52.2392853,<3.5
+521,salad-story-warszawa-klif,O135P7R1,2,48,"salads_1456, wrap_1416",50,60,4.0,0,1,0,20.979433,52.2475334,3.8-4.3
+522,tutti-colori-skolimowska-4,O151O1PN,2,69,"pizza_1386, italian_21, lunch_1226",30,55,4.5,1,0,1,21.0217819,52.2118539,>4.3
+524,pizzeria-zlota-65-warszawa,O155R1PN,46,364,"pizza_1386, italian_21, pasta_1376",40,65,4.1,1,1,0,20.9983229,52.22988,3.8-4.3
+525,bistro-warszawa-cafe,O15NN001,0,6,"polish_1216, dumplings_1236, lunch_1226",50,60,4.4,1,1,0,21.0092941,52.2290129,>4.3
+526,kimi-sushi-elektrownia-powisle,O15R75PN,0,98,"sushi_51, seafood_1476, japanese_551",25,50,4.7,1,1,0,21.0272363,52.2401936,>4.3
+527,guru-kripa,O1N00PPN,0,141,"indian_1596, thai_61, curry_1576",55,80,4.7,1,1,1,21.1023197,52.2389071,>4.3
+528,fragola-zlote-tarasy,O1N0N1PN,2,16,"pasta_1376, salads_1456, pancakes_1674",50,60,4.7,1,1,0,21.0014321,52.2302995,>4.3
+529,bawarchi-indian-restaurant,O1N7P1N1,20,413,"indian_1596, thai_61, curry_1576",50,75,4.4,1,1,1,20.9870205,52.2429805,>4.3
+530,bistro-bordo-warszawa-chmielna,O1NN1RPN,0,17,"pizza_1386, italian_21, pasta_1376",60,85,4.3,1,1,1,21.0118894,52.2319661,3.8-4.3
+531,zacny-pyrkot-warszawa,O1NN33N1,5,73,"polish_1216, pasta_1376, dumplings_1236",55,65,4.1,1,1,0,20.9917085,52.2447091,3.8-4.3
+533,la-cantina-meyhane-warszawa,O1NR03PN,23,30,"pizza_1386, burgers_1276, gluten-free_1556",55,65,4.1,1,1,0,21.0183044,52.2365691,3.8-4.3
+535,mumbai-restauracja-indyjska,O1O17ON1,0,122,"indian_1596, curry_1576, vegetarian_391",50,60,4.6,1,1,1,21.0133541,52.230787,>4.3
+536,zarin-kebab-warszawa,O1O1PPPN,15,26,"kebab_1606, turkish_511, lunch_1226",50,60,4.5,1,1,0,21.0001841,52.2294361,>4.3
+537,laligurash-restauracja-nepalska-i-indyjska,O1O5QQR,30,1479,"indian_1596, soup_1406, seafood_1476",50,75,4.5,1,1,1,20.9421356,52.2462255,>4.3
+538,smak-curry,O1ON31R,34,883,"indian_1596, curry_1576",25,50,4.9,1,1,0,21.0290109,52.2095504,>4.3
+539,hayat-kebab-kuchnia-turecka,O1OR37PN,0,13,"kebab_1606, curry_1576, turkish_511",35,45,4.5,1,1,0,20.99293,52.162262,>4.3
+540,bobby-burger-emilii-plater,O1P01501,1,81,"burgers_1276, american_1296, beef_1426",55,65,4.3,1,1,0,21.0028828,52.2317255,3.8-4.3
+541,kerala-kitchen,O1P55P7N,0,3,"indian_1596, curry_1576, salads_1456",45,70,3.7,1,1,0,20.991129,52.24406,3.5-3.8
+542,pizzeria-san-giovanni-angorska,O1PO07PN,82,1023,"pizza_1386, italian_21, pasta_1376",20,45,4.9,1,1,0,21.0627188,52.2391752,>4.3
+543,new-york-burger-okopowa-33,O1PO1O5N,0,132,"burgers_1276, american_1296, snacks_1286",45,70,4.7,1,1,0,20.9771545,52.2412631,>4.3
+544,hello-vietnam-warszawa,O1PP107N,0,9,"thai_61, vietnamese_261, soup_1406",50,60,4.6,1,1,0,20.994511,52.231601,>4.3
+546,barrestauracja-mekong,O1Q0R17,0,284,"thai_61, soup_1406",50,60,3.8,1,1,0,21.0046644,52.2467184,3.5-3.8
+548,dikanka,O1Q3Q1PN,18,46,"polish_1216, dumplings_1236, gluten-free_1556",45,55,4.2,0,1,0,21.0224372,52.2049974,3.8-4.3
+549,krowarzywa-warszawa-chmielna,O1QQ7RPN,15,65,"burgers_1276, vegetarian_391, falafel_1215",35,45,3.7,1,1,1,21.0142787,52.2321622,3.5-3.8
+552,wol-na-stol-srodmiescie,O1ROO5N1,4,87,"burgers_1276, american_1296, beef_1426",55,65,4.1,1,1,0,21.0169444,52.2236012,3.8-4.3
+553,ellada-souvlaki-bar-bielany,O1RQ77N1,30,381,"greek_501, salads_1456, gyros_1356",60,85,4.5,1,1,0,20.9302122,52.2823783,>4.3
+554,vina-express-warszawa-zelazna,O301O7PN,4,6,"thai_61, vietnamese_261, lunch_1226",50,60,5.0,1,1,0,20.988335,52.2378631,>4.3
+555,izumi-sushi-and-grill,O301P001,33,217,"sushi_51, japanese_551",80,100,3.9,1,1,1,21.0041999,52.1795193,3.8-4.3
+556,hygge-warszawa,O303P17,2,106,"pasta_1376, lunch_1226, international_1486",55,65,4.4,0,1,0,21.0311808,52.207432,>4.3
+557,azami-sushi-bar,O30717PN,7,256,"sushi_51, falafel_1215, poke-bowl_2318",45,70,4.7,1,1,1,20.9295842,52.2214591,>4.3
+558,niedaleko-damaszku,O307ON7,4,105,"vegetarian_391, falafel_1215, falafel_1586",45,55,4.7,1,1,1,20.9961197,52.2345288,>4.3
+559,dobra-bula-noca,O307R7N1,15,40,"burgers_1276, american_1296, snacks_1286",50,75,4.5,1,0,1,20.9160419,52.2528743,>4.3
+560,kadoto-sushi,O330QRP,4,158,sushi_51,50,75,4.7,1,1,0,20.9546291,52.2485889,>4.3
+561,noodlani-warszawa,O33QN17N,6,5,"chinese_41, soup_1406",50,60,4.7,1,1,0,21.0116507,52.227539,>4.3
+562,mei-korean-grill-sushi,O353N7N1,4,13,"sushi_51, korean_1114, japanese_551",55,65,4.7,1,1,0,21.0323904,52.2341747,>4.3
+563,mamma-mia-never-closed-warszawa,O3553P01,33,562,"pizza_1386, italian_21, pasta_1376",55,80,3.5,1,1,0,21.0032266,52.2344084,<3.5
+564,mala-gruzja,O35QPQ5,8,39,"georgian_1516, pork_1436, beef_1426",55,65,4.5,1,1,0,21.0102864,52.2285474,>4.3
+565,u-jablonowskich,O373N5N1,0,353,"polish_1216, dumplings_1236, lunch_1226",40,65,4.4,1,1,0,21.0262704,52.2930323,>4.3
+566,starbucksr-aleje-jerozolimskie,O37O5NPN,0,7,"coffee_1164, cake_251, breakfast_361",50,60,4.4,1,0,0,21.0058697,52.2282884,>4.3
+567,marc-vegans-praga,O37OON7N,2,36,"kebab_1606, vegetarian_391, lunch_1226",50,75,4.2,1,1,1,21.0634463,52.2477999,3.8-4.3
+570,indian-curry-pruszkow-1,O3N0Q0QN,172,32,"indian_1596, curry_1576",50,75,4.6,1,1,0,20.800362,52.158962,>4.3
+571,manty-restauracja-uzbecka-warszawa,O3N3N031,14,211,"salads_1456, soup_1406, lunch_1226",35,60,4.3,1,1,1,20.9603957,52.2326846,3.8-4.3
+572,planeta-pizza-warszawa,O3N53031,33,325,"pizza_1386, italian_21, lunch_1226",35,60,4.3,0,1,0,21.0491165,52.2533858,3.8-4.3
+573,zloty-ryz-kuchnia-azjatycka,O3N7N1PN,170,527,"chinese_41, thai_61, japanese_551",30,55,4.2,1,1,0,20.9911297,52.2440589,3.8-4.3
+576,hasu-sushi-mokotow,O3NQN131,89,763,"sushi_51, vegetarian_391, japanese_551",30,55,4.7,1,1,1,21.0038339,52.1859824,>4.3
+577,tamagotchi-sushi,O3O773PN,11,30,"sushi_51, japanese_551",25,50,4.5,1,0,1,21.0180993,52.2292191,>4.3
+578,asian-cuisine-quick,O3OORN01,2,157,"chinese_41, thai_61, vietnamese_261",50,60,4.1,1,1,0,21.0212418,52.2085226,3.8-4.3
+579,ouch-chicken,O3OQ1ON1,2,93,"vietnamese_261, lunch_1226, korean_1114",55,65,4.8,1,1,0,21.032326,52.2342733,>4.3
+580,sumada-sushi,O3OQQRP,23,1453,"sushi_51, dumplings_1236, japanese_551",80,100,4.6,1,1,0,21.0111004,52.2269492,>4.3
+582,friends-pizza,O3PROQPN,9,305,"pizza_1386, italian_21, salads_1456",40,65,4.1,1,1,1,20.9682377,52.2291363,3.8-4.3
+583,tulsi-ursynow-restauracja-indyjska,O3Q11QPN,3,27,"indian_1596, curry_1576",50,75,4.4,1,1,0,21.0287499,52.161554,>4.3
+584,kulturalna-warszawa-pldefilad,O3Q1QRP,0,6,"vegetarian_391, lunch_1226, international_1486",50,60,4.1,1,1,1,21.0058281,52.2316784,3.8-4.3
+585,zdrowa-krowa-okrzei,O3Q5PON1,14,155,"burgers_1276, american_1296, salads_1456",45,70,3.3,0,1,0,21.0312087,52.2490839,<3.5
+587,sushi-zushi-gold,O3R0O031,21,50,"sushi_51, japanese_551",25,50,3.7,1,1,0,21.0182356,52.2291725,3.5-3.8
+588,le-cedre,O3R7R001,0,21,"falafel_1215, falafel_1586, arab_1566",20,45,4.3,1,1,0,21.0311201,52.2527939,3.8-4.3
+589,mayara-indian-restaurant,O3RR3N7N,15,80,"indian_1596, curry_1576, desserts_954",40,65,4.0,1,1,1,21.017505,52.221623,3.8-4.3
+590,kamai-sushi,O3RRO17N,14,146,"sushi_51, japanese_551",55,80,4.6,1,1,0,20.9261754,52.203152,>4.3
+591,city-kebab-warszawa-slominskiego,O5037O5N,2,11,"kebab_1606, turkish_511, falafel_1586",55,65,3.7,0,1,1,20.994639,52.2585,3.5-3.8
+592,rasoi-lounge,O503P111,0,35,"indian_1596, curry_1576, vegetarian_391",50,75,4.5,1,1,1,20.9912031,52.233104,>4.3
+593,sushi-office,O50751PN,11,143,"sushi_51, fish_421, japanese_551",35,60,4.6,1,1,0,21.0818631,52.2543466,>4.3
+594,kura-warzyw-gemuse-kebap-hala-gwardii,O50OOP01,8,209,"kebab_1606, turkish_511, falafel_1215",55,65,3.6,1,1,0,21.0000007,52.239432,3.5-3.8
+595,le-cedre-84-1,O50Q5QP,0,19,"sushi_51, japanese_551",35,45,4.8,1,1,0,20.9912147,52.2415829,>4.3
+596,byczek-burger-miedzyborska,O511R17N,97,263,"burgers_1276, american_1296, falafel_1215",40,65,4.9,1,1,0,21.0743533,52.2453009,>4.3
+597,zano-sushi,O5130RPN,33,92,"sushi_51, thai_61, japanese_551",40,65,4.7,1,1,0,20.9599195,52.1976279,>4.3
+599,gruzinska-tbilisi,O51RNQ01,8,346,"soup_1406, georgian_1516, lunch_1226",70,95,3.9,1,0,1,21.0218431,52.206856,3.8-4.3
+600,bukhoro,O533QQPN,0,17,"kebab_1606, lunch_1226, beef_1426",30,55,4.3,1,1,0,20.9448551,52.1776859,3.8-4.3
+602,vege-sushi-okrzei,O5550311,5,172,"sushi_51, vegetarian_391, falafel_1215",65,90,4.3,1,1,0,21.0348051,52.250876,3.8-4.3
+603,madchef,O555R0PN,14,73,"sushi_51, salads_1456",45,70,4.7,1,1,0,21.032326,52.2342733,>4.3
+604,casa-di-tuzza,O55Q3O5N,5,141,"pizza_1386, italian_21",65,90,4.2,1,1,1,21.0047486,52.2431453,3.8-4.3
+605,pizza-wilczyzza,O575PP7N,37,97,"pizza_1386, salads_1456, wrap_1416",25,50,4.2,1,1,1,21.1361877,52.2447811,3.8-4.3
+606,fujin-premium-sushi,O577017N,0,28,"sushi_51, japanese_551",15,40,4.4,1,1,0,21.032326,52.2342733,>4.3
+608,umai-sushi,O5N1R7PN,7,34,"sushi_51, japanese_551",45,70,4.8,1,1,1,21.064482,52.2068828,>4.3
+609,starbucksr-przyokopowa,O5NO5NPN,3,17,"coffee_1164, cake_251, breakfast_361",55,65,4.1,1,0,0,20.9803844,52.2322973,3.8-4.3
+612,tutti-amici-warszawa,O5O0R3PN,17,635,"pizza_1386, italian_21, pasta_1376",40,65,4.6,1,1,1,20.984848,52.2365937,>4.3
+613,sphinx-warszawa-rotunda,O5O15PPN,0,24,"turkish_511, lunch_1226, international_1486",55,65,3.0,1,1,0,21.0134957,52.2304611,<3.5
+614,hisor-kebab,O5O3QP7N,0,3,kebab_1606,50,60,3.4,1,1,0,21.016514,52.2295431,<3.5
+615,kuchnia-smak-azji-warszawa,O5OO0031,6,107,"chinese_41, thai_61, vietnamese_261",35,60,3.8,1,1,1,20.9493163,52.192513,3.5-3.8
+616,warburger-warszawa-stawki,O5OOO1PN,3,35,"burgers_1276, american_1296",50,60,4.3,1,1,0,20.9862143,52.2518698,3.8-4.3
+617,foodcartel,O5OP33PN,0,29,"chinese_41, greek_501, mexican_221",50,60,4.3,1,1,0,21.0129627,52.2288059,3.8-4.3
+618,agere-contra,O5OR05N1,4,10,"vegetarian_391, lunch_1226, pancakes_1674",50,60,4.8,1,1,0,20.991118,52.2380625,>4.3
+619,jadlodajnia-m-i-m,O5P3R1PN,0,37,"polish_1216, soup_1406, lunch_1226",50,60,4.9,0,1,0,20.963996,52.2184432,>4.3
+621,wabu-sushi,O5PO0R5,29,239,"sushi_51, japanese_551",70,95,4.6,1,1,0,20.9840018,52.2328422,>4.3
+622,bystro-hot-dog-burger-tamka,O5POOP01,0,89,"burgers_1276, american_1296, snacks_1286",45,70,3.6,1,1,1,21.0260942,52.2376598,3.5-3.8
+623,pizza-by-the-slice,O5PP535N,17,234,"pizza_1386, italian_21, american_1296",40,65,4.2,1,1,0,21.018853,52.2333017,3.8-4.3
+624,gosciniec-polskie-pierogi,O5PRO5N1,3,13,"polish_1216, dumplings_1236, soup_1406",50,60,3.8,1,1,1,21.0185569,52.234353,3.5-3.8
+625,chinese-dumpling-noodle-house,O5Q00N11,0,116,"chinese_41, dumplings_1236, lunch_1226",30,55,4.1,1,1,1,20.9949227,52.2373922,3.8-4.3
+626,amal-pizza-warszawa,O5Q111QN,221,110,"pizza_1386, kebab_1606, burgers_1276",30,55,5.0,1,0,0,20.919123,52.2579,>4.3
+627,pijalnia-czekolady-ewedel-warszawa-freta,O5Q177R1,2,9,"coffee_1164, desserts_954, pancakes_1674",50,60,3.7,1,1,0,21.0080736,52.2515221,3.5-3.8
+628,yummy-party-box,O5Q35RPN,0,15,"polish_1216, dumplings_1236, international_1486",20,45,4.2,1,1,0,20.9582899,52.2426309,3.8-4.3
+631,hana-sushi-zlote-tarasy-zlota,O5ROQ501,0,34,"sushi_51, seafood_1476, japanese_551",35,45,3.8,1,1,0,21.0026871,52.2301084,3.5-3.8
+632,kamikaze-sushi-wilno,O70111QN,17,4,"sushi_51, thai_61, japanese_551",25,50,4.2,1,1,0,21.082117,52.27663,3.8-4.3
+634,lemongrass-siedmiogrodzka,O70QP011,47,1052,"thai_61, vietnamese_261, curry_1576",55,65,4.6,1,1,0,20.9765791,52.2320583,>4.3
+635,madras-curry-house,O71075N1,14,182,"indian_1596, chinese_41, vegetarian_391",20,45,4.5,1,1,0,20.9690673,52.2343639,>4.3
+636,thai-wai-asian-food-1,O717PRPN,0,46,"indian_1596, thai_61, falafel_1215",20,45,3.9,1,1,1,20.9860739,52.2429069,3.8-4.3
+637,hasu-sushi-bemowo,O71O3PPN,76,438,"sushi_51, vegetarian_391, japanese_551",30,55,4.7,1,1,1,20.9187333,52.2557035,>4.3
+638,baguette-mi,O71QRQPN,0,10,"vietnamese_261, sandwiches_671, lunch_1226",50,60,4.3,1,1,0,20.9986825,52.2311979,3.8-4.3
+640,tutti-santi-warszawa-krolewska,O73P3031,5,141,"pizza_1386, italian_21",50,60,3.8,1,1,0,21.0039697,52.2374405,3.5-3.8
+642,nori-sushi-warszawa,O73QRO5N,99,752,"sushi_51, lunch_1226, japanese_551",40,65,4.6,1,1,1,20.9401856,52.2229472,>4.3
+643,indian-taste-powisle,O7503O5N,31,324,"indian_1596, curry_1576, lunch_1226",35,60,4.1,1,1,1,21.0365785,52.2230304,3.8-4.3
+644,adel-kebab-belwederska,O750NN7,0,533,"kebab_1606, turkish_511, falafel_1586",50,75,3.9,1,1,0,21.0355789,52.2021249,3.8-4.3
+645,welcome-india-tarchomin,O755307N,146,365,"indian_1596, thai_61, lunch_1226",30,55,4.9,1,1,0,20.9683903,52.3201431,>4.3
+646,sushi-mur,O755R1PN,3,43,"sushi_51, thai_61, japanese_551",80,100,4.0,1,1,0,21.0121607,52.2214265,3.8-4.3
+647,bite-zolwie-sztos-burger,O75ONO5N,0,71,"pizza_1386, burgers_1276, american_1296",15,40,3.8,1,1,0,21.011891,52.2328291,3.5-3.8
+648,sushi-boom-1,O75Q03N1,42,262,"sushi_51, fish_421",50,75,4.1,1,1,0,21.0602831,52.236615,3.8-4.3
+650,night-pizza-factory-warszawa,O77O1ON1,21,102,"pizza_1386, italian_21, falafel_1215",75,100,3.3,1,1,0,21.1071219,52.236533,<3.5
+651,spacca-napoli-warszawa,O77ON07N,0,23,"pizza_1386, italian_21, pasta_1376",55,65,4.1,1,1,0,21.0375489,52.2323869,3.8-4.3
+652,serdeczny-bar-mleczny,O77PR1PN,0,68,"polish_1216, dumplings_1236, lunch_1226",50,60,4.5,1,1,0,20.9912719,52.2248373,>4.3
+653,balbinka-kebab,O7N0P011,0,75,"kebab_1606, turkish_511, vegetarian_391",50,60,3.8,1,1,0,20.9923831,52.2252365,3.5-3.8
+654,miami-stara-poczta,O7N15101,0,245,"pizza_1386, italian_21, pasta_1376",50,60,4.7,1,1,0,21.012068,52.2492139,>4.3
+655,casa-mia-pizza-napoletana-kolska,O7N3RQN1,19,238,"pizza_1386, italian_21, desserts_954",45,70,3.9,1,1,0,20.9764852,52.2506432,3.8-4.3
+656,lilys-bistro-warszawa,O7N713N1,2,10,"burgers_1276, international_1486, breakfast_681",50,60,4.3,0,1,1,20.995033,52.2547031,3.8-4.3
+657,india-gate-aleje-jerozolimskie,O7NQ0RR,75,1528,"indian_1596, curry_1576, lunch_1226",40,65,4.8,1,1,1,20.999686,52.226657,>4.3
+658,wypieki-gruzinskie-warszawa-aljana-pawla-ii,O7NQNN11,3,21,"georgian_1516, desserts_954, cake_251",55,65,5.0,1,1,0,20.9909997,52.2441853,>4.3
+660,fadi-kebab,O7O3535N,7,74,"kebab_1606, turkish_511, falafel_1586",45,55,4.1,1,1,0,20.9913129,52.2271492,3.8-4.3
+662,kielba-w-gebie-warszawa,O7O75RP,0,186,"polish_1216, snacks_1286, lunch_1226",50,60,4.4,1,1,0,21.0106572,52.2226065,>4.3
+663,namaste-india-warszawa,O7ONO7PN,0,9,"indian_1596, curry_1576",10,20,4.1,1,1,0,21.016514,52.2295431,3.8-4.3
+664,lezzet-modern-turkish-restaurant,O7OQ5O01,41,188,"turkish_511, lunch_1226, beef_1426",30,55,4.8,1,1,0,21.079088,52.1744117,>4.3
+665,smak-tradycji-opaczewska,O7P7Q001,96,783,"polish_1216, soup_1406, lunch_1226",20,45,4.4,0,1,0,20.9724179,52.2107991,>4.3
+666,pierogi-su,O7PN0131,0,71,"chinese_41, dumplings_1236, gluten-free_1556",55,65,4.9,1,1,0,20.9760938,52.2319563,>4.3
+667,sana-sushi-noca,O7PN0NN1,56,117,"sushi_51, japanese_551",55,80,4.4,1,1,1,21.0351436,52.1429226,>4.3
+668,give-us-a-thai,O7PPO7PN,7,7,thai_61,65,90,4.0,1,1,0,21.0290109,52.2095504,3.8-4.3
+669,india-express-by-mandala,O7PPQQP,27,846,"indian_1596, thai_61, falafel_1215",40,65,4.3,1,1,1,20.992002,52.229771,3.8-4.3
+670,groole-pieczone-ziemniaki-warszawa,O7Q3P101,0,86,"polish_1216, vegetarian_391, lunch_1226",40,50,4.5,1,1,0,21.0148663,52.2215799,>4.3
+671,yokohama-sushi-minska,O7Q7OP7N,7,28,"sushi_51, vegetarian_391, japanese_551",80,100,4.1,1,1,0,21.059727,52.248203,3.8-4.3
+673,wrapme-warszawa-zlota,O7R733N1,0,5,"vegetarian_391, falafel_1215, wrap_1416",50,60,4.1,1,1,0,20.9992017,52.2302001,3.8-4.3
+674,starbucksr-warszawa-centralna,O7RO5NPN,0,12,"coffee_1164, cake_251, breakfast_361",50,60,4.4,1,0,0,21.003052,52.2289967,>4.3
+675,la-lucy,O7RON001,4,41,"sandwiches_671, lunch_1226, pancakes_1674",50,60,4.7,1,1,0,20.9945141,52.233647,>4.3
+676,bong-bong-wierzbno,O7ROONR,39,2079,"chinese_41, thai_61, vietnamese_261",20,45,4.7,1,1,0,21.0032419,52.18935,>4.3
+677,pizza-jerry,O7RQNQ01,25,383,"pizza_1386, italian_21, burgers_1276",30,55,4.5,1,1,1,20.963419,52.2428565,>4.3
+678,uapami-warszawa-solec,ON001RPN,3,10,"falafel_1215, sandwiches_671, wrap_1416",50,60,5.0,1,1,0,21.032326,52.2342733,>4.3
+679,zakasek-drink-food,ON0301PN,6,12,"burgers_1276, american_1296, sandwiches_671",50,60,4.7,1,1,0,21.0183532,52.2329781,>4.3
+680,pansushi-postepu-5,ON0RPPN1,3,30,"sushi_51, falafel_1215, japanese_551",65,90,3.9,1,1,0,20.9931785,52.1744032,3.8-4.3
+682,duza-miha-chinatown-jasna,ON157101,6,92,"chinese_41, thai_61, vietnamese_261",50,60,3.7,1,1,0,21.010559,52.2363949,3.5-3.8
+683,bp-wild-bean-cafe-warszawa-grzymaly-sokolowskiego,ON1N5NPN,2,3,"sandwiches_671, snacks_1286, breakfast_361",50,60,4.3,0,1,0,20.9757219,52.218506,3.8-4.3
+685,warsaw-sushi,ON1P5P7N,3,39,"sushi_51, soup_1406, japanese_551",40,65,4.7,1,0,0,20.9315714,52.260343,>4.3
+686,nocozercy-warszawa,ON300OPN,60,294,"pizza_1386, italian_21",30,55,4.6,1,1,0,20.946262,52.241284,>4.3
+689,koku-sushi-warszawa-cybernetyki,ON330P7N,43,164,"sushi_51, falafel_1215, japanese_551",50,75,4.9,1,1,0,20.992744,52.176502,>4.3
+690,secret-spice,ON33QN11,0,118,"indian_1596, soup_1406, lunch_1226",50,60,3.4,1,1,1,21.0194352,52.2235098,<3.5
+691,serial-grillers-original-burgers-warszawa,ON375P7N,75,117,"burgers_1276, american_1296",40,65,4.7,1,1,0,20.994133,52.242367,>4.3
+692,pizza-na-wypasie-noca-chmielna,ON37N7PN,115,109,"pizza_1386, italian_21, falafel_1215",65,90,4.0,1,1,0,21.018051,52.233116,3.8-4.3
+693,yak-yeti-indian-restaurants,ON3P07PN,16,50,"indian_1596, curry_1576",30,55,4.9,1,1,0,21.0625946,52.1933277,>4.3
+694,bella-ciao-noca,ON3P7RPN,29,171,"pizza_1386, italian_21, pasta_1376",25,50,3.8,1,1,0,21.032326,52.2342733,3.5-3.8
+695,tokyo-sushi-nowy-swiat,ON3Q7111,36,125,"sushi_51, japanese_551",30,55,4.5,1,1,0,21.0189009,52.2349252,>4.3
+696,pizza-time-smocza-smocza,ON3R7RPN,23,160,"pizza_1386, polish_1216, american_1296",15,40,4.5,1,1,1,20.9821297,52.2497392,>4.3
+697,kantyna-azjatycka-sajgonki,ON5N15PN,0,24,"thai_61, vietnamese_261, lunch_1226",50,60,4.5,1,1,0,20.9824383,52.2293787,>4.3
+698,citybreak-wola-retro,ON710031,0,9,"polish_1216, dumplings_1236, lunch_1226",50,60,4.6,0,1,0,20.969396,52.230739,>4.3
+699,leila-mezze-lounge,ON73555N,0,5,"falafel_1586, snacks_1286, arab_1566",35,45,4.3,1,1,0,21.0138137,52.2283611,3.8-4.3
+700,kura-1,ON75QN11,11,272,"american_1296, sandwiches_671, poultry_1536",55,65,4.5,1,1,0,20.9933097,52.2451478,>4.3
+701,pijalnia-czekolady-ewedel-warszawa-krakowskie-przedmiescie,ON7P17N1,0,14,"desserts_954, pancakes_1674",50,60,3.8,1,1,0,21.0137599,52.244619,3.5-3.8
+702,son-36,ONNPQRPN,0,141,"thai_61, vietnamese_261",80,100,4.4,1,1,0,21.0649156,52.2312963,>4.3
+703,hallo-pizza-warszawa,ONNQ7Q5,59,1879,"pizza_1386, italian_21, salads_1456",35,60,4.3,1,1,1,21.008043,52.2139729,3.8-4.3
+704,fenicja-kebab-francuska-41-warszawa,ONO71RN1,7,154,"kebab_1606, falafel_1586, arab_1566",55,65,4.2,1,1,1,21.0525268,52.236252,3.8-4.3
+706,tehran-kuchnia-perska,ONOO57R1,0,63,"turkish_511, arab_1566, veal_1546",55,65,4.1,1,1,0,21.0191861,52.2353534,3.8-4.3
+707,qchnia-rozbrat,ONOOQ17,26,598,"chinese_41, thai_61, vietnamese_261",30,55,4.5,1,1,0,21.0363748,52.2223249,>4.3
+708,pijalnia-czekolady-ewedel-warszawa-szpitalna,ONOP17N1,5,10,"desserts_954, pancakes_1674",50,60,4.0,1,1,0,21.014809,52.233287,3.8-4.3
+709,alif-kebab-warszawa,ONP15PN1,0,6,"kebab_1606, turkish_511, falafel_1586",50,60,4.2,1,1,1,20.9809903,52.2332634,3.8-4.3
+710,one-sushi,ONP1P0PN,0,30,"sushi_51, japanese_551",50,75,4.0,1,1,0,20.9968468,52.1572276,3.8-4.3
+711,curry-house-warszawa-kapelanow-armii-krajowej,ONQ1OO5N,24,268,"indian_1596, curry_1576",30,55,4.5,1,1,0,21.0829411,52.2299177,>4.3
+712,seabus-sushi,ONQ77N7N,14,25,"sushi_51, fish_421, japanese_551",30,55,4.8,1,1,0,21.0457867,52.193783,>4.3
+713,syto-gvrito,ONQNPO5N,0,26,"dumplings_1236, georgian_1516, beef_1426",80,100,4.2,1,0,0,21.0857533,52.2440196,3.8-4.3
+714,starbucksr-galaxy-warszawa,ONQO5NPN,0,3,"coffee_1164, cake_251, breakfast_361",50,60,3.9,1,0,0,20.9941209,52.2423672,3.8-4.3
+715,box-kebab-swietokrzyska-warszawa,ONQRO07N,0,17,"kebab_1606, falafel_1586, desserts_954",50,75,3.0,1,0,0,21.0112526,52.2360226,<3.5
+717,krancowka-warszawa,ONR7R3PN,3,23,"salads_1456, sandwiches_671, lunch_1226",45,55,4.5,1,1,0,20.9895831,52.2376313,>4.3
+718,hot-pot-thai,ONRO33PN,18,36,"thai_61, lunch_1226, poultry_1536",35,45,4.7,1,1,0,20.9739049,52.2384272,>4.3
+719,gospoda-pod-zygmuntem,ONRRO5N1,0,15,"polish_1216, dumplings_1236, soup_1406",50,60,4.2,1,1,1,21.0130047,52.2485494,3.8-4.3
+720,bar-mleczny-maslanka,OO075R01,36,368,"polish_1216, dumplings_1236, lunch_1226",50,60,3.9,1,1,0,20.9912433,52.2439775,3.8-4.3
+721,chulo,OO0N5501,1,131,"indian_1596, thai_61, vegetarian_391",50,75,4.3,1,1,1,21.0078614,52.2247013,3.8-4.3
+722,sushi-yummy,OO0NPPPN,47,101,"sushi_51, japanese_551",45,70,4.5,1,1,0,21.0411499,52.2598289,>4.3
+723,kur-zapial-warszawa,OO100OPN,213,657,"burgers_1276, american_1296, poultry_1536",40,65,4.6,1,1,0,20.946262,52.241284,>4.3
+724,kebab-grill-istambul,OO1NO1PN,77,2404,"pizza_1386, kebab_1606, burgers_1276",30,55,4.7,1,0,0,20.9243179,52.2555058,>4.3
+725,kozaczok-bielany,OO1P0OPN,27,165,"soup_1406, lunch_1226, ukrainian_2508",60,85,4.3,1,1,0,20.926598,52.2835507,3.8-4.3
+726,antresola-wronia,OO307111,2,5,"polish_1216, soup_1406, lunch_1226",50,60,5.0,1,1,0,20.985009,52.234738,>4.3
+728,la-vegana,OO3N3RPN,9,23,"vietnamese_261, vegetarian_391, falafel_1215",50,60,4.3,1,1,0,21.0145429,52.2327317,3.8-4.3
+729,burger-king-widok,OO3P71PN,0,19,"burgers_1276, american_1296, snacks_1286",55,65,3.9,1,0,0,21.0126238,52.2309989,3.8-4.3
+730,binh-minh-bar-restauracja,OO3Q5RP,9,353,"chinese_41, thai_61, japanese_551",50,60,4.6,0,1,0,21.0194117,52.2345957,>4.3
+731,hello-vietnam,OO3RP1N1,0,39,"thai_61, vietnamese_261, curry_1576",45,55,4.5,1,1,0,20.9837779,52.2280692,>4.3
+732,silver-dragon-dworzec-centralny,OO51Q7R1,29,62,"chinese_41, thai_61, vietnamese_261",50,60,4.5,1,1,0,21.0058697,52.2282884,>4.3
+733,bawarchi-indian-restaurant-staszica-warszawa,OO5PO0QN,8,13,"indian_1596, thai_61, curry_1576",50,75,4.5,1,1,1,20.971458,52.235863,>4.3
+734,kimidori-green-sushi,OO7P7N7N,9,12,"sushi_51, vegetarian_391, falafel_1215",20,45,4.7,1,1,1,21.0627394,52.1953815,>4.3
+735,sushi-king-warszawa-zelazna,OON0NRN1,4,25,"sushi_51, lunch_1226, japanese_551",50,75,4.5,1,1,1,20.9932725,52.2303295,>4.3
+736,chmeli-suneli-warszawa,OON777Q,8,179,"dumplings_1236, georgian_1516, lunch_1226",50,60,3.7,1,1,0,21.0173079,52.2253874,3.5-3.8
+737,bo-burger-fries-warszawa,OON7Q0PN,0,117,"burgers_1276, american_1296, lunch_1226",35,45,4.4,0,1,1,20.9888606,52.2386554,>4.3
+738,bottega-napoli,OONP1031,0,21,"pizza_1386, italian_21, pasta_1376",50,60,4.4,1,1,0,21.02011,52.238968,>4.3
+740,pizzeria-pineta,OOOO77N1,5,267,"pizza_1386, italian_21, pasta_1376",75,100,3.7,1,1,0,20.9424946,52.2386561,3.5-3.8
+741,green-chili-kebab-amaro,OOP1P7PN,0,6,"kebab_1606, falafel_1586, snacks_1286",55,65,3.5,1,1,0,21.0512878,52.2379705,<3.5
+742,bengol-kebab-warszawa-aljerozolimskie,OOP3NQN1,0,4,"kebab_1606, salads_1456, falafel_1586",50,60,4.2,0,1,1,20.963996,52.2184432,3.8-4.3
+743,xin-chao-warszawa-marszalkowska,OOPN5N7,2,83,"chinese_41, thai_61, vietnamese_261",50,60,4.6,1,1,0,21.0214633,52.2144709,>4.3
+744,icon-sushi,OOPOQ031,0,76,"sushi_51, korean_1114",65,90,4.5,1,1,0,21.0729541,52.1545191,>4.3
+745,so-coffee-warszawa-pldefilad,OOPR11PN,0,14,"coffee_1164, sandwiches_671, desserts_954",50,60,4.5,1,1,0,21.0058281,52.2316784,>4.3
+746,jerky-warszawskie,OOQQQ17N,39,71,"american_1296, snacks_1286, beef_1426",40,65,5.0,1,1,1,21.032326,52.2342733,>4.3
+747,vege-sushi,OOR0Q101,35,277,"sushi_51, falafel_1215, vegetarian_391",50,75,4.5,1,1,0,20.9797336,52.2746553,>4.3
+748,la-finestra,OOROONP,7,521,"pizza_1386, italian_21, pasta_1376",50,60,4.2,1,1,0,20.9811748,52.2168725,3.8-4.3
+749,piu-pizzeria-spaghetteria,OORQ3011,0,8,"pizza_1386, italian_21, pasta_1376",35,60,4.5,1,1,0,21.0411758,52.2540254,>4.3
+750,dominos-pizza-warszawa-al-jerozolimskie,OP071N01,12,194,"pizza_1386, american_1296, snacks_1286",20,45,3.9,1,1,1,20.9928963,52.2253819,3.8-4.3
+751,telepizza-warszawa-miodowa,OP0N3N01,19,254,"pizza_1386, italian_21, snacks_1286",30,55,3.9,1,1,0,21.0065134,52.248318,3.8-4.3
+752,pijalnia-czekolady-ewedel-warszawa-zlota,OP0N77R1,0,7,"desserts_954, pancakes_1674",50,60,3.8,1,1,0,21.0014321,52.2302995,3.5-3.8
+753,tonkin-authentic-asia-cuisine,OP0OR35N,72,442,"chinese_41, thai_61, vietnamese_261",50,60,4.8,1,1,0,21.0221712,52.2080437,>4.3
+754,neko-sushi,OP10577,29,700,"sushi_51, lunch_1226, japanese_551",45,70,4.6,1,1,0,21.081911,52.274803,>4.3
+755,damask-rose,OP10PQQ,0,4,"falafel_1586, lunch_1226, international_1486",50,60,3.4,1,1,1,20.995088,52.2316129,<3.5
+756,gruby-josek,OP1O5001,30,349,"polish_1216, dumplings_1236, lunch_1226",35,45,3.7,1,1,0,20.9946886,52.2393247,3.5-3.8
+757,bollywood-curry,OP1R0031,0,26,"indian_1596, curry_1576, lunch_1226",50,60,4.7,1,1,1,21.017726,52.221973,>4.3
+758,chaiwala-indian-food,OP1RN17,0,3273,"indian_1596, thai_61, curry_1576",55,80,4.4,1,1,1,20.994587,52.240494,>4.3
+759,kebab-grill-istambul-noc,OP31PNPN,10,206,"pizza_1386, kebab_1606, burgers_1276",30,55,4.5,1,0,0,20.9243179,52.2555058,>4.3
+760,bao-dao-warszawa-marszalkowska,OP350QR1,18,63,"sushi_51, thai_61, japanese_551",50,60,4.6,1,1,0,21.0184496,52.2184,>4.3
+761,chulo-wola,OP375QN1,0,106,"indian_1596, thai_61, falafel_1215",20,45,4.5,0,1,0,21.007862,52.2247,>4.3
+762,imereti-gruzinska-kuchnia,OP53PPN1,34,640,"georgian_1516, sandwiches_671, beef_1426",60,85,4.5,1,1,0,21.1074721,52.2365653,>4.3
+763,vapiano-aleje-jerozolimskie,OP5QQQR,4,70,"pizza_1386, italian_21, pasta_1376",45,55,3.7,1,1,0,21.0056819,52.2282499,3.5-3.8
+764,hangouts-burger-house,OP735RPN,0,106,"burgers_1276, american_1296, snacks_1286",30,55,3.8,1,1,0,20.9815963,52.2432852,3.5-3.8
+765,holy-ravioli,OP7P35PN,0,85,"italian_21, pasta_1376, lunch_1226",40,65,4.9,1,1,0,20.9961249,52.2601676,>4.3
+766,milo-pizza-napoletana,OPN00OPN,1,237,"pizza_1386, italian_21, desserts_954",55,80,3.7,1,1,1,20.9827803,52.2392853,3.5-3.8
+767,smashed-burgers,OPN037PN,13,29,"burgers_1276, american_1296, lunch_1226",80,100,4.5,1,1,1,21.024055,52.190292,>4.3
+768,sushi-siema,OPN13N7N,7,25,"sushi_51, vegetarian_391, japanese_551",65,90,4.3,1,1,0,21.0785727,52.2459253,3.8-4.3
+769,tgi-fridays-wola,OPNOO35N,2,58,"burgers_1276, american_1296, beef_1426",50,60,4.4,1,1,0,20.9950387,52.2389805,>4.3
+770,chicagos-pizza-aleja-jana-pawla-ii,OPO3707N,31,90,"pizza_1386, burgers_1276, lunch_1226",40,65,4.4,0,1,0,20.9911297,52.2440589,>4.3
+771,asado-mezze-grill-warszawa,OPONNPN1,30,647,"falafel_1586, wrap_1416, arab_1566",65,90,4.3,1,1,0,21.0106373,52.2380818,3.8-4.3
+772,poke-bowl-chmielna,OPOON17N,0,7,"sushi_51, lunch_1226, poke-bowl_2318",50,60,4.7,1,1,0,21.0130792,52.2321808,>4.3
+773,piekarnia-ormiansko-gruzinska-marukyan-warszawa-pl-mirowski,OPOP71PN,0,3,"georgian_1516, sandwiches_671, desserts_954",50,60,5.0,1,1,0,20.9973919,52.238844,>4.3
+774,hato-sushi,OPOQ135N,2,186,"sushi_51, seafood_1476, japanese_551",45,70,4.7,1,1,0,21.059478,52.2471029,>4.3
+775,nazo-sushi,OPOQ5NP1,132,475,"sushi_51, japanese_551",40,65,4.8,1,1,0,20.9772073,52.260271,>4.3
+776,kebab-egipt-nowogrodzka,OPP10031,0,13,"kebab_1606, falafel_1586, lunch_1226",50,60,3.9,1,1,0,21.0142068,52.2293428,3.8-4.3
+777,maharaja-indian-i-thai,OPP5N7N1,0,6,"indian_1596, thai_61, pork_1436",50,60,4.4,1,1,0,20.9878161,52.2333795,>4.3
+779,beefbeer,OPQ3N35N,0,32,"burgers_1276, american_1296, snacks_1286",80,100,4.9,1,0,1,21.0001111,52.2392759,>4.3
+780,mazza-grill-i-kebab,OPQ5707N,56,136,kebab_1606,30,55,4.4,1,1,0,21.0357554,52.2509194,>4.3
+781,bemowo-sushi,OPQ73NP,0,564,"sushi_51, lunch_1226, japanese_551",65,90,4.4,1,1,0,20.9151485,52.2342615,>4.3
+782,menya-musashi-warszawa,OPQN5NR,4,62,"falafel_1215, lunch_1226, japanese_551",40,65,3.8,1,1,0,20.9556897,52.2125194,3.5-3.8
+783,bobby-burger-warszawa-ul-stawki,OPR3R0PN,13,31,"burgers_1276, american_1296, snacks_1286",55,65,3.6,1,1,0,20.9909504,52.2533593,3.5-3.8
+784,frankies-proximo-ii,OQ010RQ,6,54,"salads_1456, sandwiches_671",50,60,4.5,1,1,0,20.981711,52.230982,>4.3
+785,tortilia,OQ05R0QN,23,15,"burgers_1276, wrap_1416, pancakes_1674",30,55,3.5,1,1,1,21.060284,52.236614,<3.5
+786,marukyan-piekarnia-ormiansko-gruzinska,OQ11ORR,0,21,"georgian_1516, lunch_1226",50,60,4.5,1,1,0,20.99093,52.233936,>4.3
+788,i-love-sushi-warszawa-wroclawska,OQ1311N1,48,237,"sushi_51, international_1486, japanese_551",50,75,4.9,1,1,0,20.9246715,52.2514249,>4.3
+789,wolska-ferajna-burger-noca,OQ17707N,19,54,"burgers_1276, american_1296, snacks_1286",35,60,4.0,1,1,0,20.944518,52.2369772,3.8-4.3
+790,vegan-sushi-bar,OQ1N1RPN,0,15,"sushi_51, falafel_1215, poke-bowl_2318",80,100,4.6,1,1,0,20.9933097,52.2451478,>4.3
+791,vege-sushi-warszawa,OQ1O01N1,6,169,"sushi_51, vegetarian_391, falafel_1215",65,90,4.1,1,1,0,20.9931785,52.1744032,3.8-4.3
+792,chimichurri,OQ1Q0QR1,0,13,"lunch_1226, international_1486",50,60,4.7,1,1,0,21.00172,52.237469,>4.3
+793,sushimania,OQ350031,57,589,"sushi_51, lunch_1226, japanese_551",45,70,4.8,1,1,1,20.9684696,52.2067489,>4.3
+794,dobra-bula-rokosowska,OQ503031,49,358,"burgers_1276, american_1296, lunch_1226",30,55,4.9,0,1,0,20.9734718,52.2145367,>4.3
+795,dobry-placek,OQ51P1PN,8,33,"lunch_1226, desserts_954, french_321",35,45,4.6,0,1,0,21.028172,52.201096,>4.3
+796,vegan4seasons-falafelszarma,OQ57QP01,0,24,"falafel_1215, sandwiches_671, falafel_1586",35,45,4.5,1,1,0,21.0260942,52.2376598,>4.3
+797,pizza-na-wypasie-srodmiescie,OQ5Q5NP1,50,205,"pizza_1386, italian_21, falafel_1215",50,75,4.3,1,1,1,21.0180503,52.2331153,3.8-4.3
+798,cafe-furkot,OQ73ON11,6,66,"polish_1216, lunch_1226, fish_421",50,60,4.5,1,1,1,20.991118,52.2380625,>4.3
+799,loving-hut-warszawa-warynskiego,OQ7P7R01,5,22,"vietnamese_261, vegetarian_391, falafel_1215",50,60,4.9,1,1,0,21.0150434,52.219268,>4.3
+800,anonimus,OQN35101,356,3746,"american_1296, poultry_1536, mexican_221",40,65,4.6,1,1,0,21.0737591,52.2862129,>4.3
+801,balkan-grill-najlepsza-kuchnia-serbska-warszawa,OQNP0QPN,76,214,"soup_1406, international_1486, beef_1426",30,55,4.9,1,1,1,21.0829436,52.2396532,>4.3
+802,india-express-by-mandala-bielany,OQNR31N1,40,580,"indian_1596, thai_61, falafel_1215",40,65,4.6,1,1,1,20.9464285,52.2785908,>4.3
+803,pierogi-co,OQO1PQPN,0,10,"polish_1216, dumplings_1236, lunch_1226",50,60,4.5,1,1,1,21.0123237,52.2328474,>4.3
+804,masala-king-warszawa,OQO3PRPN,68,209,"indian_1596, curry_1576, lunch_1226",40,65,4.8,1,1,0,21.0336076,52.173482,>4.3
+805,pizzeria-verona-al-niepodleglosci,OQO3RQN1,62,61,pizza_1386,40,65,3.2,1,0,0,21.0173426,52.1896124,<3.5
+806,gosciniec-polskie-pierogi-warszawa,OQORP17,0,23,"polish_1216, dumplings_1236, soup_1406",50,60,4.5,1,1,1,21.013889,52.2439819,>4.3
+807,kresowe-smaki-valentyny-sienna,OQP1ON11,0,19,"dumplings_1236, soup_1406, lunch_1226",50,60,4.5,1,1,0,20.9917269,52.2297049,>4.3
+808,mr-pancake-pizza-boyz-marszalkowska,OQP5QQN1,0,18,"pizza_1386, american_1296, pancakes_1674",50,60,4.7,1,0,0,21.0195448,52.2165207,>4.3
+809,bar-a-boo-warszawa-plac-europejski,OQP7Q7PN,2,35,"pizza_1386, italian_21, pasta_1376",50,60,4.2,1,1,0,20.9851791,52.2326755,3.8-4.3
+810,indian-lounge,OQPP0OPN,1,119,"indian_1596, thai_61, curry_1576",20,45,4.3,1,1,1,20.9711304,52.2349253,3.8-4.3
+811,dziubek-catering,OQQ03001,0,295,"polish_1216, salads_1456, lunch_1226",40,65,4.9,1,1,1,20.8905544,52.2076799,>4.3
+812,nama-sushi-drink-bar,OQQ503PN,12,60,"sushi_51, thai_61, japanese_551",45,70,4.2,1,1,0,21.0411072,52.1667337,3.8-4.3
+813,tacos-la-fiesta,OQQ570QN,54,5,"international_1486, poultry_1536, mexican_221",50,75,3.7,1,1,0,21.080135,52.27483,3.5-3.8
+814,amal-kebab-romualda-millera,OQQO0RP,229,6990,"pizza_1386, kebab_1606, burgers_1276",30,55,4.8,1,1,0,20.9191223,52.2578999,>4.3
+815,starbucksr-aleja-solidarnosci,OQQO5NPN,2,3,"coffee_1164, cake_251, breakfast_361",50,60,3.6,1,0,0,21.0018421,52.2451109,3.5-3.8
+817,fit-cake-warszawa-krochmalna,OQQQ507N,0,12,"falafel_1215, gluten-free_1556, cake_251",50,60,4.8,1,1,0,20.9865658,52.2356303,>4.3
+818,fugu-sushi-chodkiewicza-1,OQQRQQR,49,1131,"sushi_51, japanese_551",45,70,4.2,1,1,0,20.9940043,52.2035632,3.8-4.3
+819,sushideli,OR0351PN,15,47,"sushi_51, falafel_1215, japanese_551",35,60,4.4,1,0,0,21.067815,52.2333719,>4.3
+820,syryjka,OR03PNR,19,44,"falafel_1586, arab_1566",45,55,4.8,1,1,0,21.0215979,52.2075449,>4.3
+821,sensi-sushi-bemowo-warszawa,OR051NN1,21,110,"sushi_51, soup_1406, japanese_551",55,80,4.7,1,1,0,20.8902265,52.2278404,>4.3
+823,sushi-sushi-cafe-warszawa-panska,OR07ON31,0,42,"sushi_51, vegetarian_391, japanese_551",50,60,4.7,1,1,0,20.9937212,52.2314212,>4.3
+824,amal-pizza-noca-warszawa-millera,OR0N11QN,17,5,"pizza_1386, kebab_1606, burgers_1276",25,50,3.7,1,0,0,20.919123,52.2579,3.5-3.8
+825,new-laligurash-restaurant,OR0N7O5N,9,73,"indian_1596, thai_61, curry_1576",50,60,4.2,1,1,1,20.9766738,52.2320944,3.8-4.3
+826,burger-chata-warszawa-zytnia,OR0O7501,0,560,"burgers_1276, american_1296, vegetarian_391",35,45,4.7,0,1,0,20.9665106,52.2384738,>4.3
+827,sushi-one-warszawa,OR0OORN1,7,60,"sushi_51, soup_1406",35,60,4.6,1,1,0,21.0273103,52.1807384,>4.3
+828,pizza-hut-widok,OR0PONPN,4,10,"pizza_1386, italian_21, snacks_1286",50,60,3.6,1,0,0,21.0121961,52.231106,3.5-3.8
+829,pizza-noca-u-dziadka,OR0RNRR,136,1143,"pizza_1386, italian_21",30,55,4.6,1,1,0,20.9281017,52.2633149,>4.3
+830,warsaw-buffalo-wings,OR100QQ,26,1031,"burgers_1276, salads_1456, poultry_1536",50,75,4.6,1,1,1,21.0119829,52.2231095,>4.3
+831,goracy-kurczak,OR115NPN,21,18,"kebab_1606, poultry_1536",20,45,4.2,1,1,0,20.9515599,52.2384582,3.8-4.3
+832,sushi-swietokrzyska,OR1N51PN,6,16,"sushi_51, soup_1406, japanese_551",30,55,4.4,1,1,0,21.0031145,52.2344441,>4.3
+835,bobby-burger-warszawa-ul-grojecka,OR33R0PN,8,35,"burgers_1276, american_1296, snacks_1286",55,65,3.9,1,1,0,20.984088,52.2201742,3.8-4.3
+836,cytryny-na-powislu,OR3OO3N1,5,104,"pizza_1386, italian_21, pasta_1376",35,45,4.0,1,1,0,21.0239019,52.2387329,3.8-4.3
+837,kohinoor-restauracja-indyjska,OR3PQPN1,26,186,"indian_1596, thai_61, curry_1576",50,75,4.8,1,0,0,20.9611907,52.2379738,>4.3
+838,prosto-z-rusztu,OR531RPN,52,208,"burgers_1276, american_1296, beef_1426",50,75,4.9,1,1,1,20.992323,52.1866829,>4.3
+839,sushi-and-thai-express,OR5R055N,17,84,"sushi_51, thai_61, japanese_551",65,90,4.1,1,1,0,20.9281017,52.2633149,3.8-4.3
+840,gangnam,OR70P1N1,13,15,"sushi_51, soup_1406, korean_1114",50,60,4.6,1,1,0,20.9823241,52.2274594,>4.3
+843,spice-you,ORN0N17N,0,20,"chinese_41, thai_61, vietnamese_261",50,60,4.7,1,1,0,20.9859399,52.2499002,>4.3
+844,waniliowa-bistro,ORN1P17,89,472,"polish_1216, soup_1406, lunch_1226",50,75,4.8,1,1,1,20.936907,52.2746767,>4.3
+845,warsaw-beef-bar-gotarda,ORNPN17N,69,122,"burgers_1276, american_1296, snacks_1286",50,75,4.6,1,1,1,21.0044897,52.1708877,>4.3
+846,hashioki-sushi-bar-1,ORO3RR01,0,80,"sushi_51, japanese_551",55,80,4.6,1,1,0,21.0148433,52.2077601,>4.3
+847,van-binh-kuchnia-wietnamska,ORP375PN,0,11,"chinese_41, thai_61, vietnamese_261",50,60,3.2,0,1,0,20.963996,52.2184432,<3.5
+848,pizza-po-zachodzie-marciniaka,ORP71N01,56,770,"pizza_1386, italian_21",55,80,4.3,1,1,0,21.1417446,52.2212128,3.8-4.3
+850,raj-w-niebie,ORQ0QQ5,10,64,"american_1296, seafood_1476, japanese_551",50,60,4.9,1,1,0,21.0196448,52.2325858,>4.3
+851,tran-tran,ORQNOQ01,2,60,"thai_61, vietnamese_261, lunch_1226",50,60,4.7,1,1,0,21.0193525,52.2257718,>4.3
+852,pizza-nocna-warszawa,ORR15101,72,247,"pizza_1386, pasta_1376, dumplings_1236",30,55,4.9,1,0,1,21.0443803,52.2506409,>4.3
+853,bengol-kebab-warszawa-szczesliwicka,ORRN0111,0,57,"kebab_1606, salads_1456, falafel_1586",50,60,3.8,0,1,1,20.9684981,52.2155249,3.5-3.8
+854,mizumi-sushi,Q0RQ01O,20,1059,"sushi_51, lunch_1226, japanese_551",40,65,4.7,1,1,0,20.9294882,52.2889997,>4.3
+855,city-pizza-nocna-pora,Q375RPO,83,2625,"pizza_1386, italian_21, pasta_1376",40,65,4.1,1,1,1,21.079748,52.2704079,3.8-4.3
+856,india-king-restauracja-indyjska,Q37P7OO,13,543,indian_1596,40,65,4.3,1,1,1,21.0566732,52.1468301,3.8-4.3
+857,bobby-burger-warszawa-solidarnosci,Q3OPQPO,2,257,"burgers_1276, american_1296, snacks_1286",40,65,4.2,0,1,0,20.9942422,52.2419906,3.8-4.3
+858,senatorek,Q3PO50O,2,78,"polish_1216, lunch_1226, pancakes_1674",50,60,4.4,1,1,0,21.006486,52.243651,>4.3
+859,nama-sushi-bar-lounge,Q3PQP7O,87,1309,"chinese_41, sushi_51, japanese_551",50,75,4.5,1,1,0,21.0826247,52.1637347,>4.3
+860,otto-pizza,Q3QP10O,6,417,"pizza_1386, italian_21, lunch_1226",55,65,4.0,1,0,0,20.9829699,52.2388795,3.8-4.3
+861,dominium-by-dominos-ochota-i,Q3R015O,7,309,"pizza_1386, italian_21, lunch_1226",40,65,3.6,0,1,1,20.985431,52.2216821,3.5-3.8
+862,dominium-by-dominos-skierniewicka,Q53115O,2,331,"pizza_1386, italian_21, lunch_1226",35,60,3.4,0,1,1,20.9669182,52.2330264,<3.5
+863,chwast-food,Q53OR0O,0,825,"burgers_1276, falafel_1215, vegetarian_391",50,75,3.9,0,1,1,21.00825,52.2237406,3.8-4.3
+864,sushi-world-warszawa-ogrodowa,Q5N0315,10,4370,"sushi_51, international_1486, japanese_551",65,90,4.3,1,1,0,20.9856883,52.2380507,3.8-4.3
+865,linh,Q5NNP3O,30,1711,"chinese_41, thai_61, vietnamese_261",35,60,4.7,1,1,0,20.9881679,52.2529229,>4.3
+866,el-karnak-kebab-restaurant,Q5P130O,0,172,"kebab_1606, turkish_511, gyros_1356",50,60,3.9,0,1,1,21.008847,52.207021,3.8-4.3
+867,tuk-tuk-plac-zbawiciela,Q703O7O,3,709,"thai_61, curry_1576, vegetarian_391",25,50,4.4,1,1,1,21.0176118,52.2194568,>4.3
+868,leonardo-verde,Q70NNOO,0,373,"pizza_1386, italian_21, pasta_1376",50,60,4.0,1,0,0,21.013021,52.223283,3.8-4.3
+869,dominium-by-dominos-centrum-zgoda,Q70OPOO,0,221,"pizza_1386, italian_21, lunch_1226",20,45,3.7,1,1,1,21.013354,52.232768,3.5-3.8
+870,bobby-burger-warszawa-plac-zbawiciela,Q7N1PQO,41,1175,"burgers_1276, american_1296, snacks_1286",35,60,4.7,0,1,0,21.0190399,52.218537,>4.3
+871,ambasada-smaku-made-in-vietnam,QN10N1O,2,319,"vietnamese_261, lunch_1226, poultry_1536",50,60,4.3,1,1,0,21.014429,52.2263488,3.8-4.3
+872,indian-dawat,QN7ROQO,35,1078,"indian_1596, salads_1456, lunch_1226",35,60,4.4,1,1,0,21.0209522,52.1776358,>4.3
+873,om-restauracja,QNOO05O,43,1912,"indian_1596, curry_1576",25,50,4.6,1,1,0,21.013198,52.179342,>4.3
+874,villa-sushi-thai,QO00N0O,29,405,"sushi_51, japanese_551",40,65,4.5,1,1,0,21.0708426,52.1632518,>4.3
+875,pizza-na-wypasie-noca-ursynow,QO055OO,62,2886,"pizza_1386, italian_21, lunch_1226",20,45,4.2,1,1,0,21.029607,52.15846,3.8-4.3
+876,dominium-by-dominos-rakowiecka,QO3N15O,7,416,"pizza_1386, italian_21, lunch_1226",30,55,4.0,0,1,1,21.007158,52.2072099,3.8-4.3
+877,viaduct-pizza-bar,QO7PP7O,15,861,"pizza_1386, italian_21, lunch_1226",40,65,4.2,1,1,0,21.0308336,52.2340546,3.8-4.3
+878,oto-sushi-warszawa,QQ71N0O,32,1099,"sushi_51, seafood_1476, japanese_551",25,50,4.6,1,1,0,21.0189725,52.2346906,>4.3
+879,trattoria-ti-amo,QQN170O,13,23,"pizza_1386, italian_21, pasta_1376",45,55,4.2,1,1,0,21.0013741,52.2337414,3.8-4.3
+880,georgia-restauracja-gruzinska,QRO7QQO,30,1142,"salads_1456, georgian_1516, lunch_1226",70,95,4.2,1,0,0,21.078957,52.245362,3.8-4.3
