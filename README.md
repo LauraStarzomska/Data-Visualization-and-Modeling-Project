@@ -1,7 +1,7 @@
 <h2>Project Title</h2>
 <p>Random Forest Classifier Project</p>
 <h1>Project Description</h1>
-  <p>I prepared a classification problem. I used data from local restaurants in Warsaw and based on some variables such as: variables such as votes, score, popularity, max delivery time, discounts, delivery, pickup, the model aim is to predict the cuisine type. A complete lack of normal distribution made me decide to build a classification model so I used random forest classifier. Also, I used streamlit package to present my visualisations.</p>
+  <p>I prepared a classification problem. I used data about local restaurants in Warsaw and based on some variables such as: variables such as votes, score, popularity, max delivery time, discounts, delivery, pickup, the model aim is to predict the cuisine type. A complete lack of normal distribution made me decide to build a classification model so I used random forest classifier. Also, I used streamlit package to present my visualisations.</p>
   <h2>The Steps I Took:</h2>
   <ol>
     <li>Gathered data via pyszne.pl api and Postman API Platform (import_requests.py file)</li>
@@ -20,7 +20,7 @@
 <li><code>df_cleaned.csv</code>: Cleaned dataset in CSV format</li>
 <li><code>df_cleaned.xlsx</code>: Cleaned dataset in Excel format</li>
 <li><code>import_requests.py</code>: Python script for importing data using requests</li>
-<li><code>projekt_glowny_notebook.ipynb</code>: Jupyter notebook containing the data analysis and model building</li>
+<li><code>random_forest_classifier.ipynb</code>: Jupyter notebook containing the data analysis and model building</li>
 <li><code>response.json</code>: Response data in JSON format</li>
 <li><code>restaurants_dummies_by_score.csv</code>: Dummy variables dataset based on the score in CSV format</li>
 <li><code>restaurants_dummies_nolunch.csv</code>: Dummy variables dataset without the lunch feature in CSV format</li>
@@ -44,9 +44,18 @@
 <h2>Usage</h2>
 <p>To run the Jupyter notebook, open <code>projekt_glowny_notebook.ipynb</code> in Jupyter and run each cell in order.</p>
 <p>To run the Streamlit dashboard, run <code>streamlit run streamlit.py</code> in the command line while in the project directory.</p>
+
+<p>Results<br>The model achieved an accuracy score of 0.72, which is a good result considering the complexity of the problem and the limited number of variables used.</p>
+
+<p>Future Work<br>Future work could involve:</p>
+
+<ul> <li>Collecting more data to improve the accuracy of the model</li> <li>Trying out different algorithms to compare their performance with the random forest classifier</li> <li>Adding more variables to the model to improve its accuracy</li> </ul>
+
+<p>Conclusion<br>In this project, I was able to successfully build a classification model using the random forest classifier algorithm to predict the cuisine type of local restaurants in Warsaw. The model achieved a good accuracy score and the visualizations provided insights into the data. This project has demonstrated the usefulness and versatility of the random forest classifier algorithm in classification problems.</p>
+
 <h2>Contributors</h2>
 <ul>
-<li>[Insert your name and contact information here]</li>
+<li>Laura Starzomska</li>
 <li>[Insert name and contact information of other contributors, if applicable]</li>
 </ul>
 <h2>License</h2>
