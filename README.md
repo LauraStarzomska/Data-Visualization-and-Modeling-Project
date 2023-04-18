@@ -46,15 +46,16 @@
 <p>To run the Streamlit dashboard, run <code>streamlit run streamlit.py</code> in the command line while in the project directory.</p>
 
 <h2>Results<h2>
-  <p>The model achieved an accuracy score of 0.72, which is a good result considering the complexity of the problem and the limited number of variables used.<p>
+ The model achieved an accuracy score of 0.72, which is a good result considering the complexity of the problem and the limited number of variables used.
 
 <h2>Future Work<h2>
-  <p>Future work could involve:<p>
+  Future work could involve:
 
 <ul> <li>Collecting more data to improve the accuracy of the model</li> <li>Trying out different algorithms to compare their performance with the random forest classifier</li> <li>Adding more variables to the model to improve its accuracy</li> </ul>
 
 <h2>Conclusion<h2>
-<p>In this project, I was able to successfully build a classification model using the random forest classifier algorithm to predict the cuisine type of local restaurants in Warsaw. The model achieved a good accuracy score and the visualizations provided insights into the data. This project has demonstrated the usefulness and versatility of the random forest classifier algorithm in classification problems.<p>
+
+  In this project, I was able to successfully build a classification model using the random forest classifier algorithm to predict the cuisine type of local restaurants in Warsaw. The model achieved a good accuracy score and the visualizations provided insights into the data. This project has demonstrated the usefulness and versatility of the random forest classifier algorithm in classification problems.
 
 <h2>Contributors</h2>
 <ul>
