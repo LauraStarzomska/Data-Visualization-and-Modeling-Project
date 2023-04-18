@@ -26,9 +26,9 @@
 <li><code>restaurants_dummies_nolunch.csv</code>: Dummy variables dataset without the lunch feature in CSV format</li>
 <li><code>restaurants_dummies_nolunch_withscore_row_norm.csv</code>: Dummy variables dataset without the lunch feature, with the score feature normalized row-wise, in CSV format</li>
 <li><code>streamlit.py</code>: Python script for creating a Streamlit dashboard</li>
-</ul>
+
 <h2>Requirements</h2>
-</ul>
+
 <p>To run the Jupyter notebook and Streamlit dashboard, the following packages are required:</p>
 <h2>Requirements</h2>
 <p>To run the Jupyter notebook and Streamlit dashboard, the following packages are required:</p>
