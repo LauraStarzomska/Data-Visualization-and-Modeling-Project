@@ -1,5 +1,5 @@
 <h2>Project Title</h2>
-<p>[Insert project title here]</p>
+<p>Data Visualization and Modeling Project</p>
 <h2>Description</h2>
 <p>This project was completed as part of the [Insert name of course here] course at [Insert name of university here]. The project involves the collection, cleaning, and analysis of [Insert type of data here] data to gain insights and create visualizations using a dashboard. The data was also used to create a classification/regression model using the scikit-learn library.</p>
 <h2>Files</h2>
