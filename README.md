@@ -1,7 +1,19 @@
 <h2>Project Title</h2>
-<p>Random Forest Classifier</p>
-<h2>Description</h2>
-<p>This project was completed as part of the [Insert name of course here] course at [Insert name of university here]. The project involves the collection, cleaning, and analysis of [Insert type of data here] data to gain insights and create visualizations using a dashboard. The data was also used to create a classification/regression model using the scikit-learn library.</p>
+<p>Random Forest Classifier Project</p>
+<h1>Project Description</h1>
+  <p>I prepared a classification problem. I used data from local restaurants in Warsaw and based on some variables such as: variables such as votes, score, popularity, max delivery time, discounts, delivery, pickup, the model aim is to predict the cuisine type. A complete lack of normal distribution made me decide to build a classification model so I used random forest classifier. Also, I used streamlit package to present my visualisations.</p>
+  <h2>The Steps I Took:</h2>
+  <ol>
+    <li>Gathered data via pyszne.pl api and Postman API Platform (import_requests.py file)</li>
+    <li>Data Cleaning and Preprocessing (random_forest_classifier.ipynb file)</li>
+    <li>Cleaned data are in df_cleaned.csv df_cleaned.xlsx</li>
+    <li>Data visualization</li>
+    <li>Statistics (variables distribution, correlation)</li>
+    <li>Decide on what model to use</li>
+    <li>Model preparation and evaluation</li>
+  </ol>
+</body>
+</html>
 <h2>Files</h2>
 <ul>
 <li><code>README.md</code>: This file, containing information about the project</li>
@@ -15,6 +27,9 @@
 <li><code>restaurants_dummies_nolunch_withscore_row_norm.csv</code>: Dummy variables dataset without the lunch feature, with the score feature normalized row-wise, in CSV format</li>
 <li><code>streamlit.py</code>: Python script for creating a Streamlit dashboard</li>
 </ul>
+<h2>Requirements</h2>
+</ul>
+<p>To run the Jupyter notebook and Streamlit dashboard, the following packages are required:</p>
 <h2>Requirements</h2>
 <p>To run the Jupyter notebook and Streamlit dashboard, the following packages are required:</p>
 <ul>
