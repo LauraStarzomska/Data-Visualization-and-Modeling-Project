@@ -10,7 +10,7 @@ I prepared a classification problem using data about local restaurants in Warsaw
 2. Data Cleaning and Preprocessing (`random_forest_classifier.ipynb` file)
 3. Cleaned data are in `df_cleaned.csv` and `df_cleaned.xlsx`
 4. Data visualization
-5. Statistics (variables distribution, correlation)
+5. Statistics (variables distribution, correlations etc.)
 6. Decide on what model to use
 7. Model preparation and evaluation
 
@@ -37,6 +37,14 @@ To run the Jupyter notebook and Streamlit dashboard, the following packages are 
 - seaborn
 - scikit-learn
 - streamlit
+- json
+- missingno
+- plotly
+- folium
+- scipy, stats
+- statsmodels
+- sklearn
+
 
 To import data using requests, the requests package is also required.
 
@@ -48,7 +56,7 @@ To run the Streamlit dashboard, run `streamlit run streamlit.py` in the command 
 
 ## Results
 
-The model achieved an accuracy score of 0.72, which is a good result considering the complexity of the problem and the limited number of variables used.
+The model achieved an accuracy score of 0.15, which isn't a satisfying result.
 
 ## Future Work
 
@@ -60,7 +68,7 @@ Future work could involve:
 
 ## Conclusion
 
-In this project, I was able to successfully build a classification model using the random forest classifier algorithm to predict the cuisine type of local restaurants in Warsaw. The model achieved a good accuracy score and the visualizations provided insights into the data. This project has demonstrated the usefulness and versatility of the random forest classifier algorithm in classification problems.
+In this project, I was able to successfully build a classification model using the random forest classifier algorithm to predict the cuisine type of local restaurants in Warsaw. The model unfortunately achieved a bad accuracy score. The visualizations provided insights into the data. This project has demonstrated the usefulness and versatility of the random forest classifier algorithm in classification problems.
 
 ## Contributors
 - Laura Starzomska
